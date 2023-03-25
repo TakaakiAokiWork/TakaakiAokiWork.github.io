@@ -1,3 +1,8 @@
+---
+layout: page
+title: Curriculum vitae : 経歴
+---
+
 # Curriculum vitae : 経歴
 
 青木 高明 (Takaaki Aoki)
