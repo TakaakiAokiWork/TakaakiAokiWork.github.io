@@ -1,4 +1,4 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 title: Takaaki Aoki's web page
 description: Mathematical and geographical modelling・Network science・Nonlinear dynamics
 plugins:
