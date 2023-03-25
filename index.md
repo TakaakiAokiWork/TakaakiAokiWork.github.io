@@ -1,7 +1,6 @@
 
-**Network science・Nonlinear dynamics**
 
-**ネットワークの数理・非線形動力学**
+**数理地理モデリング・ネットワークの数理・非線形動力学**
 
 *Thank you for visiting my web page!*
 
