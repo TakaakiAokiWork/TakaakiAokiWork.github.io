@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Teaching and Outreach 教育関係情報
 ---
 
