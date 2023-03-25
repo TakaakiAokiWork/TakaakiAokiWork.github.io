@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae : 経歴
+title: Curriculum vitae (経歴)
 ---
 
 青木 高明 (Takaaki Aoki)
