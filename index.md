@@ -4,6 +4,10 @@
 
 *Thank you for visiting my web page!*
 
+# Table of contents
+{:toc}
+
+# About me
 Takaaki Aoki (青木 高明)
 
 <img src="./img/face.jpg" alt="face" width="180" height="240" class="img-rounded">
@@ -16,7 +20,7 @@ Associate Professor, Faculty of Education, Kagawa University
 香川大学 教育学部
 北1号館3階 青木教員研究室
 
-## Research interests:
+# Research interests
 My research interests contain the following topics:
 - Mathematical and geographical modelling for humanities
 - Nonlinear dynamics (Coupled oscillators)
