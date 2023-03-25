@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Takaaki Aoki's web page
+description: Takaaki Aoki's web page
+plugins:
+  - jekyll-sitemap
