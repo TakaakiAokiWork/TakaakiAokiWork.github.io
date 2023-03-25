@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching & Outreach 教育関係情報
+title: Teaching and Outreach 教育関係情報
 ---
 
 # Lectures : 担当授業
