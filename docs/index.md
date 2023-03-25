@@ -1,13 +1,6 @@
 
-
-**数理地理モデリング・ネットワークの数理・非線形動力学**
-
 *Thank you for visiting my web page!*
 
-# Table of contents
-{:toc}
-
-- [Curriculum vitae : 経歴](./CV.html).
 
 # About me
 Takaaki Aoki (青木 高明)
@@ -30,4 +23,4 @@ My research interests contain the following topics:
 - Computational neuroscience (Synaptic plasticity).
 - Models of social dynamics.
 
-研究についての解説はこちらを見てください．
+研究についての解説は[こちら](./Research.html)を見てください．
