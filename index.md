@@ -10,7 +10,8 @@ Takaaki Aoki (青木 高明)
 <img src="./img/face.jpg" alt="face" width="180" height="240" class="img-rounded">
 
 Associate Professor, Faculty of Education, Kagawa University
- aoki.takaaki@kagawa-u.ac.jp
+
+<span class="glyphicon glyphicon-envelope"></span> aoki.takaaki<span class="no-spam">nospamword</span>@kagawa-u.ac.jp</p>
 
 〒760-8521 香川県高松市幸町１−１
 香川大学 教育学部
