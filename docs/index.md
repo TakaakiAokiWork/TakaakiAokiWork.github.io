@@ -7,6 +7,8 @@
 # Table of contents
 {:toc}
 
+- [Curriculum vitae : 経歴](./CV.html).
+
 # About me
 Takaaki Aoki (青木 高明)
 
