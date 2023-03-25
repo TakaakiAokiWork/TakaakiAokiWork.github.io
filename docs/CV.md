@@ -3,11 +3,21 @@ layout: page
 title: Curriculum vitae : 経歴
 ---
 
-# Curriculum vitae : 経歴
-
 青木 高明 (Takaaki Aoki)
 
-## in Japanese
+# Short curriculum vitae
+- 1997 - 2001 Department of Physics, Kyoto University
+- 2001 - 2003 Graduate School of Informatics, Kyoto University
+- 2003 - 2007 Nonlinear Dynamics Group, Department of Physics, Kyoto University
+- Jan., 2007 Ph.D from Kyoto University
+- 2007 - 2008 Researcher of CREST, JST
+- 2008 - 2011 JSPS Research Fellow
+- Apr., 2011 - Sep., 2011 Researcher of CREST, JST
+- Oct., 2011 - 2012 Assistant Professor (講師), Faculty of Education, Kagawa University
+- 2013 - Associate Professor, Faculty of Education, Kagawa University
+- 2019.3 - 2020.2 Academic Visitor in Mathematical Institute in University of Oxford.
+
+## 経歴 (in Japanese)
 
 - 2013(平成25)/4 - 現在	香川大学 教育学部 准教授
 - 2019(平成30)/3 - 2020(令和2)/2	オックスフォード大学数学研究所 客員研究員
@@ -20,3 +30,4 @@ title: Curriculum vitae : 経歴
 - 2001(平成13)/4 - 2003(平成15)/3	京都大学大学院 情報学研究科 修士課程
 - 1997(平成9)/4 - 2001(平成13)/3	京都大学京都大学 理学部 理学科
 - 1996(平成8)/3	千葉県立千葉高等学校 卒
+
