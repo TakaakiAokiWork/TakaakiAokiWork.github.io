@@ -75,6 +75,12 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     else:
         s += "vol. {volume}, {pages} ".format(**e)
     s += "({year}).".format(**e)
+    if "doi" in e:
+        s += "<br>DOI: <a href='https:doi.org/{doi}'> {doi} </a>".format(**e)
+    if "url" in e:
+        if "crid" in e["url"]:
+            s += "<br>Link to <a href='https:doi.org/{url}'> CiNii database</a>".format(**e)
+
     print(s)
     
 print("</ol>")
