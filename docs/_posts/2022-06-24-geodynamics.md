@@ -2,7 +2,7 @@
 layout: post
 title: "Cities and roads as pattern formation on landscapes"
 date: 2022-06-24
-categories: PatternFormation AdaptiveNetworks 
+tags: PatternFormation AdaptiveNetworks 
 feature_image: geodynamics-scheme.png
 ---
 
