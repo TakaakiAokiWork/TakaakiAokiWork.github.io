@@ -15,12 +15,5 @@ Associate Professor, Faculty of Education, Kagawa University
 香川大学 教育学部
 北1号館3階 青木教員研究室
 
-# Research interests
-My research interests contain the following topics:
-- Mathematical and geographical modelling for humanities
-- Nonlinear dynamics (Coupled oscillators)
-- Network science (Dynamics on the networks and Adaptive networks)
-- Computational neuroscience (Synaptic plasticity).
-- Models of social dynamics.
 
 研究についての解説は[こちら](./Research.html)を見てください．
