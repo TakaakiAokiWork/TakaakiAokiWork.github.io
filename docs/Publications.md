@@ -10,8 +10,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 ## Grants-in-Aid for Scientific Research from JSPS: 科研費他
 {::nomarkdown}
 <ol>
-<li> 2022 – 2024年度 「産業連関分析とネットワーク科学の融合アプローチによる地域内経済循環構造の解明」<br> 挑戦的研究(萌芽)・研究分担者<br> <a href=ihttps://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18525/>課題番号 22K18525</a>
-<li> 2021 – 2025年度 「原シルクロードの形成－中央アジア山岳地帯の初期開発史に関する総合研究－」<br> 基盤研究(A)・研究分担者<br> <a href=https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H03507/>課題番号 21H04357</a>
+<li> 2022 – 2024年度 「産業連関分析とネットワーク科学の融合アプローチによる地域内経済循環構造の解明」<br> 挑戦的研究(萌芽)・研究分担者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18525/>課題番号 22K18525</a>
+<li> 2021 – 2025年度 「原シルクロードの形成－中央アジア山岳地帯の初期開発史に関する総合研究－」<br> 基盤研究(A)・研究分担者<br> <a href=https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04357/>課題番号 21H04357</a>
 <li> 2021 – 2023年度 「人流ネットワークに特化した数理解析基盤の整備とその応用」<br> 基盤研究(B)・研究分担者<br> <a href=https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H03507/>課題番号 21H03507</a>
 <li> 2018 – 2020年度 「アンケートの問い方を変える:ネットワーク科学を活用した自由記述式の統計分類法」<br> 挑戦的研究(萌芽)・研究代表者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K18604/>課題番号 18K18604</a>
 <li> 2014 – 2017年度 「江戸期石高データに潜む数理構造の解明」<br> 基盤研究(C)・研究代表者<br> <a href=http://kaken.nii.ac.jp/d/p/26520206.en.html>課題番号 26520206</a>
