@@ -1,7 +1,7 @@
 ---
 layout: summary
 title: Research
-list-title: Topics
+list_title: Topics
 ---
 
 # Research interests
