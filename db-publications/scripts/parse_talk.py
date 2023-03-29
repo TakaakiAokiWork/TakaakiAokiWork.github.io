@@ -24,5 +24,5 @@ for year in sorted(grp.groups, reverse=True):
             print("<li>{TITLE}, {AUTHORS}, {CONF_NAME}({CONF_DATE}), {TALK_DATE}, {PLACE}, {ADDRESS}, {COUNTRY}, {TALK_TYPE}. </li>".format(**d))
         else:
             print("<li>{TITLE}, {AUTHORS}, {CONF_NAME}({CONF_DATE}), {TALK_DATE}, {PLACE}, {TALK_TYPE}. </li>".format(**d))
-    print("</ol>")
+    print("</ol>\n\n")
 

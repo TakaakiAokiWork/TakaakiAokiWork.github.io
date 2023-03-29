@@ -15,6 +15,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Mathematical geographical modelling for environmental humanities(2022/07/06-07), 2022/07/07, Research Institute for Mathematical Sciences, Kyoto University, 京都府京都市左京区北白川追分町, Japan, Oral. </li>
 <li>人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解, Takaaki Aoki, 香川大学・地域科学セミナー(2022/06/28), 2022/06/28, 香川大学幸町北キャンパス, 高松市幸町1-1, Japan, Oral. </li>
 </ol>
+
+
 #### 2021年度
 <ol>
 <li>Finding a potential of human flow for revealing urban spatial structures, Takaaki Aoki, Economics Seminar, the Complex Systems Institute(2022/03/31), 2022/03/31, online, The complex systems institute, Ghent University, Belgium, Oral. </li>
@@ -25,12 +27,16 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>ホッジ・小平分解を用いた,人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 日本物理学会 2021年秋季大会(2021/09/20-23), 2021/09/21, online, Oral. </li>
 <li>人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 第13回 数理モデリング研究会: Workshop on multitrack event-trains in neural, social, seismological, and financial data(2021/08/28-30), 2021/08/30, online, Oral. </li>
 </ol>
+
+
 #### 2020年度
 <ol>
 <li>グラフベースの自由記述式アンケートシステムを用いた新型コロナウイルスについての心情調査研究, 川本達郎, 青木高明, 上田路子, 日本物理学会 第76回年次大会（2021年）(2021/03/12-15), 2021/03/13, online, Oral. </li>
 <li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 第 34 回応用地域学会 （ARSC）研究発表大会(2020/11/28-29), 2020/11/28, online, Oral. </li>
 <li>コロナ禍における人々の声を集める: 投票クラスタリングによる自由記述アンケートの定期実施から, Takaaki Aoki, Workshop on multitrack event-trains in neural, social, seismological, and financial data(2020/9/12-13), 2020/09/12, online, Oral. </li>
 </ol>
+
+
 #### 2019年度
 <ol>
 <li>Population distribution as pattern formation on landscapes, Takaaki Aoki, Dynamic seminar in College of Engineering, Mathematics and Physical Sciences(2019/12/10), 2019/12/10, University of Exeter, Harrison Building, Streatham Campus, N Park Rd, Exeter EX4 4QF, United Kingdom, United Kingdom, Oral. </li>
@@ -39,6 +45,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>Graph-based classification of opinions in free-response surveys, Takaaki Aoki, Seminar in centre for business network analysis(2019/5/30), 2019/05/30, University of Greenwich, Hamilton House, 15 Park Vista, Greenwich Peninsula, London SE10 9LZ, UK, United Kingdom, Oral. </li>
 <li>Graph-based classification of opinions in free-response surveys, Takaaki Aoki, Networks seminar in mathematical institute(2019/5/21), 2019/05/21, University of Oxford, Woodstock Rd, Oxford OX2 6GG, United Kingdom, United Kingdom, Oral. </li>
 </ol>
+
+
 #### 2018年度
 <ol>
 <li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, The connected past(2018/12/6-7), 2018/12/06, University of oxford, 〒OX1 2JD Oxford, United Kingdom, Oral. </li>
@@ -51,6 +59,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, NAXYS Seminar(2018/6/19), 2018/06/19, Namur university, Rue de Bruxelles 61, 5000 Namur, Beligium, Beligium, Oral. </li>
 <li>グラフベースの自由記述式アンケートの統計分類法, Takaaki Aoki, 第14回京都算楽会(2018/5/12-13), 2018/05/12, THE HAMANAKO, 静岡県浜松市西区雄踏町山崎4396-1, Japan, Oral. </li>
 </ol>
+
+
 #### 2017年度
 <ol>
 <li>実地形空間における都市・道路網のパターン形成, 青木高明, 中垣俊之, 藤原直哉, ミニカンファレンス:ネットワーク科学と経済学の接点(2017/12/09), 2017/12/09, 東京大学本郷キャンパス 小島ホール1階第2セミナー室, 〒113-0033　東京都文京区本郷7-3-1, Japan, Oral. </li>
@@ -65,6 +75,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>数理地理モデリングによる都市と道路のパターン形成, Takaaki Aoki, 第13回京都算楽会(2017/5/13-14), 2017/05/14, かんぽの宿 有馬 「会議室」, 兵庫県神戸市北区有馬町1617-1, Japan, Oral. </li>
 <li>Cities and roads as pattern formation on landscape, Takaaki Aoki, The Urban Economics Workshop(2017/4/14), 2017/04/14, 東京大学大学院経済学研究科, 東京都文京区本郷7-3-1, Japan, Oral. </li>
 </ol>
+
+
 #### 2016年度
 <ol>
 <li>数理地理モデリングによる都市と道の形成メカニズムの解明, Takaaki Aoki, 日本物理学会　第72回年次大会(2017/3/17-20), 2017/03/18, 大阪大学　豊中キャンパス, 大阪府豊中市待兼山町, Japan, Oral. </li>
@@ -79,7 +91,11 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 <li>近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析 - 天草地方を事例に-, Takaaki Aoki, 2016年度 RIMS共同研究「マクロ経済動学の非線形数理」(2016/7/6-8), 2016/07/07, 京都大学数理解析研究所, 京都市左京区北白川追分町, Japan, Oral. </li>
 <li>Collective dynamics of interacting individuals in adaptive temporal network, Takaaki Aoki, "Network science research in Asia: fundamentals and applications" in Netsci 2016(2016/5/30 - 6/3), 2016/05/30, The K Hotel Seoul, 70 Baumoe-ro 12-gil, Yangjae 2(i)-dong, Seocho-gu, Seoul, Korea, Invited. </li>
 </ol>
-<h4>2014年度 </h4>
+
+
+
+<div>
+  <h4>2014年度 </h4>
 <ol>
 <li> 学校での対流の学習は機能していない?, 高橋尚志，大浦みゆき，青木高明，寺尾徹，森真佐純, 日本物理学会　第70回年次大会, 早稲田大学, 2015/3/21, oral
  <li> 適応的テンポラルネットワークモデルによるバースト現象の説明, 青木高明, 日本物理学会　第70回年次大会, 早稲田大学, 2015/3/24, oral
@@ -242,4 +258,4 @@ Computational and Systems Neuroscience (Cosyne) 2009 (2009/2/26-2009/3/1), Salt 
 <li> 青木高明, “神経ネットワークの機能に対する同期スパイクの果たす役割”, 日本神経回路学会 第13回全国大会, 法政大学(東京), 2003年9月9日 poster
 <li> 青木高明, 青柳富誌生, “スパイク同期現象によるWinner-Take-All競合の調節”, 日本物理学会, 東北大学(仙台), 2003年3月28日 oral
 </ol>
-<br>
+</div>
