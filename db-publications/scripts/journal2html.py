@@ -76,7 +76,7 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
         s += "vol. {volume}, {pages} ".format(**e)
     s += "({year}).".format(**e)
     if "pdf" in e:
-        s += "<br><div id ='downloads'><a href=pdfs/{pdf}>Fulltext (free)</a></div>".format(**e)
+        s += "<br><a href=pdfs/{pdf}><button>Fulltext (free)</button></a>".format(**e)
     if "doi" in e:
         s += "<br>DOI: <a href=https://doi.org/{doi}>{doi}</a>".format(**e)
     if "url" in e:
