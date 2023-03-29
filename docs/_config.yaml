@@ -5,3 +5,6 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have onetheme: jekyll-theme-minimal
   - jekyll-sitemap
+author:
+  name: Takaaki Aoki
+  email: "takaaki.aoki.work@gmail.com"
