@@ -70,7 +70,7 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     e["formatted_authors"] = format_authors(e["author"])
     e["title"] = format_title(e["title"])
     s = "<li>"
-    s += "<span id='title'>{title}</span>, ".format(**e)
+    s += "<strong>{title}</strong>, ".format(**e)
     s += "{formatted_authors}, ".format(**e)
     if e["ENTRYTYPE"] == "misc": # Preprint
         s += "<a href=https://arxiv.org/abs/{eprint}>{archiveprefix}:{eprint} [{primaryclass}]</a>".format(**e)
