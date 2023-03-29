@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 75%;
-}
+$content-width: 80%;
 
 body {
         font: 18px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
