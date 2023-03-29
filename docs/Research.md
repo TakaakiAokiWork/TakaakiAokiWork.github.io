@@ -1,6 +1,7 @@
 ---
 layout: summary
 title: Research
+list-title: Topics
 ---
 
 # Research interests
