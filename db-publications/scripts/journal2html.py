@@ -79,7 +79,11 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     if "number" in e:
         s += "vol. {volume}({number}), {pages} ".format(**e)
     else:
-        s += "vol. {volume}, {pages} ".format(**e)
+        if "vol" in e:
+            s += "vol. {volume}, {pages} ".format(**e)
+        else:
+            if "pages" in e:
+                s += "{pages} ".format(**e)
     s += "({year}).".format(**e)
     if "fulltext" in e:
         s += "<br><a href={fulltext}><button>Fulltext (free)</button></a>".format(**e)
