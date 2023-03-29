@@ -10,7 +10,7 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 {::nomarkdown}
 <div id='publication'>
 <ol>
-<li><span id='title'>いかなる場所に人々は集まり住むのか? : 街と道の千年紀シミュレーション</span>, <span id='me'>青木 高明</span>, <em>科学</em>, vol. 93(2), 156-162 (2023).<br><a href=pdfs/Aoki2023-kagaku.pdf> <button type='button' class='btn btn-primary'>Fulltext (free)</button></a><br>Link to <a href=https://cir.nii.ac.jp/crid/1520294971593289600> CiNii database</a>
+<li><span id='title'>いかなる場所に人々は集まり住むのか? : 街と道の千年紀シミュレーション</span>, <span id='me'>青木 高明</span>, <em>科学</em>, vol. 93(2), 156-162 (2023).<br><div id ='downloads'><a href=pdfs/Aoki2023-kagaku.pdf>Fulltext (free)</a></div><br>Link to <a href=https://cir.nii.ac.jp/crid/1520294971593289600> CiNii database</a>
 <li><span id='title'>ネットワークにおける時間と変化 : Temporal and adaptive networks (「複雑ネットワーク研究の最前線」特集号)</span>, <span id='me'>青木 高明</span>, <em>システム・制御・情報</em>, vol. 65(5), 176--181 (2021).<br>DOI: <a href=https://doi.org/10.11509/isciesci.65.5_176>10.11509/isciesci.65.5_176</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1520572359779117056> CiNii database</a>
 <li><span id='title'>数理地理モデリング : 江戸期郡村誌に対するデータ分析の試み</span>, <span id='me'>青木 高明</span>, <em>シミュレーション</em>, vol. 40(2), 101--104 (2021).<br>Link to <a href=https://cir.nii.ac.jp/crid/1520009410093234560> CiNii database</a>
 <li><span id='title'>リンク可塑性に基づくネットワーク構造の秩序化</span>, <span id='me'>青木 高明</span>, <em>日本神経回路学会誌</em>, vol. 21(4), 155--161 (2014).<br>DOI: <a href=https://doi.org/10.3902/jnns.21.155>10.3902/jnns.21.155</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1390001204467640832> CiNii database</a>
