@@ -40,8 +40,8 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 {::nomarkdown}
 <div id='publication'>
 <ol>
-<li><span id='title'>対面学生にも遠隔学生にも同等に演示実験を伝達するハイブリッド型授業の新たな取組—「文系のための物理学」における実践記録—</span>, 高橋 尚志, 笠 潤平 &amp; <span id='me'>青木 高明</span>, <em>香川大学教育研究 = Journal of research in higher education, Kagawa University</em>, vol. 19, 159-165 (2022).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050291768726551040> CiNii database</a>
-<li><span id='title'>学生の修学に関する相談窓口の統合と移動に関するアンケート調査—教育学部の学生を対象として—</span>, 大久保 智生, <span id='me'>青木 高明</span> &amp; 岡田 涼, <em>香川大学教育研究 = Journal of research in higher education, Kagawa University</em>, vol. 16, 99-107 (2019).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050850722278023296> CiNii database</a>
+<li><span id='title'>対面学生にも遠隔学生にも同等に演示実験を伝達するハイブリッド型授業の新たな取組—「文系のための物理学」における実践記録—</span>, 高橋 尚志, 笠 潤平 &amp; <span id='me'>青木 高明</span>, <em>香川大学教育研究</em>, vol. 19, 159-165 (2022).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050291768726551040> CiNii database</a>
+<li><span id='title'>学生の修学に関する相談窓口の統合と移動に関するアンケート調査—教育学部の学生を対象として—</span>, 大久保 智生, <span id='me'>青木 高明</span> &amp; 岡田 涼, <em>香川大学教育研究</em>, vol. 16, 99-107 (2019).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050850722278023296> CiNii database</a>
 <li><span id='title'>小学校理科の新課程教科書の研究 : 実験・観察例を中心に</span>, 笠 潤平, 礒田 誠, 高橋 尚志, <span id='me'>青木 高明</span>, 大浦 みゆき, 佐々木 信行, 高木 由美子, 小森 博文, 高橋 智香, 松本 一範, 篠原 渉, 稗田 美嘉, 寺尾 徹, 松村 雅文 &amp; 北林 雅洋, <em>香川大学教育学部研究報告 第Ⅱ部</em>, vol. 65(2), 53-66 (2015).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050569247293958400> CiNii database</a>
 <li><span id='title'>中学校理科の新教科書の研究 : 理科教員養成をめぐる新しい課題の明確化</span>, 松村 雅文, 寺尾 徹, 礒田 誠, 高橋 尚志, <span id='me'>青木 高明</span>, 大浦 みゆき, 佐々木 信行, 高木 由美子, 小森 博文, 高橋 智香, 松本 一範, 篠原 渉, 稗田 美嘉, 北林 雅洋 &amp; 笠 潤平, <em>香川大学教育学部研究報告 第Ⅱ部</em>, vol. 64(1), 5-25 (2014).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050287772317248640> CiNii database</a>
 <li><span id='title'>遠隔ICTを活用した附属学校と学部の連携教育研究</span>, 高木 由美子, 西原 浩, 佐々木 信行, 尾﨑 忍, 高橋 智香, 礒田 誠, 高橋 尚志, <span id='me'>青木 高明</span>, 大浦 みゆき, 末廣 喜代一, 松本 一範, 篠原 渉, 稗田 美嘉, 松村 雅文, 寺尾 徹, 鈴木 万喜, 北林 雅洋, 笠 潤平, 八木 健太郎, 吉井 雅英, 高橋 正人, 小早川 覚, 山地 正樹, 橘 慎二郎, 長谷川 忍, 若林 教裕, 樽本 導和, 二神 朋人 &amp; 森 真佐純, <em>香川大学教育実践総合研究</em>, vol. 26, 147-154 (2013).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050850722277847808> CiNii database</a>
@@ -49,6 +49,15 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 </div>
 {:/nomarkdown}
 
+
+
+## Book chapter
+<ol>
+<li>
+M. Satoshi, H. Nakamura, N. Higashi, T. Aoki (2017).
+<span id="title">Disaster Management and Integrated Economy in Early Modern Japan. Amakusa in the 19th Century.</span><br>
+in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy in a Comparative Perspective. Alps, Scandinavia, and Beyond.</em> (pp. 241-266). Zalo&#382;ba Univerze na Primorskem, Koper.
+</ol>
 
 # Reviews
 {::nomarkdown}
