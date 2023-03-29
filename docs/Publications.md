@@ -6,6 +6,18 @@ title: Papers and Grants
 # Papers and Grants
 My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en&user=e8x3baAAAAAJ).
 
+# Reviews
+{::nomarkdown}
+<div id='publication'>
+<ol>
+<li><span id='title'>ネットワークにおける時間と変化 : Temporal and adaptive networks (「複雑ネットワーク研究の最前線」特集号)</span>, <span id='me'>青木 高明</span>, <em>システム・制御・情報</em>, vol. 65(5), 176--181 (2021).
+<li><span id='title'>数理地理モデリング : 江戸期郡村誌に対するデータ分析の試み</span>, <span id='me'>青木 高明</span>, <em>シミュレーション</em>, vol. 40(2), 101--104 (2021).
+<li><span id='title'>リンク可塑性に基づくネットワーク構造の秩序化</span>, <span id='me'>青木 高明</span>, <em>日本神経回路学会誌</em>, vol. 21(4), 155--161 (2014).
+</ol>
+</div>
+{:/nomarkdown}
+
+
 # Research grants
 ## Grants-in-Aid for Scientific Research from JSPS: 科研費他
 {::nomarkdown}
