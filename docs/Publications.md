@@ -54,7 +54,7 @@ Table of contents
 {:/nomarkdown}
 
 
-#3 Articles in Japanese
+## Articles in Japanese
 {::nomarkdown}
 <div id='publication'>
 <ol>

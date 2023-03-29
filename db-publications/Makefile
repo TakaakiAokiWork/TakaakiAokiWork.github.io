@@ -4,7 +4,7 @@ publications:
 	python scripts/journal2html.py preprint.bib >> tmp/Publications.preprint
 	echo "## Articles" > tmp/Publications.articles
 	python scripts/journal2html.py Articles.bib >> tmp/Publications.articles
-	echo "#3 Articles in Japanese" > tmp/Publications.jparticles
+	echo "## Articles in Japanese" > tmp/Publications.jparticles
 	python scripts/journal2html.py ArticlesWithoutReview.bib >> tmp/Publications.jparticles
 	echo "## Reviews" > tmp/Publications.review
 	python scripts/journal2html.py Review.bib >> tmp/Publications.review
