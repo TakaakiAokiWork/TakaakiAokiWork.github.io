@@ -11,7 +11,7 @@ Table of contents
 - [Articles in Japanese](#articles-in-japanese)
 - [Books](#books)
 - [Reviews](#reviews)
-- [Grants](#research-grant)
+- [Grants](#research-grants)
 - [Talks](#talks)
 
 ## Preprints
