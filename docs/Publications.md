@@ -6,7 +6,13 @@ title: Papers and Grants
 # Papers and Grants
 My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en&user=e8x3baAAAAAJ).
 
-# Preprint
+Table of contents
+- [Articles](#articles)
+- [Articles in Japanese](#articles-in-japanese)
+- [Books](#books)
+- [Reviews](#reviews)
+- [Grants](#research-grant)
+- [Talks](#talks)## Preprints
 {::nomarkdown}
 <div id='publication'>
 <ol>
@@ -16,7 +22,7 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 {:/nomarkdown}
 
 
-# Articles
+## Articles
 {::nomarkdown}
 <div id='publication'>
 <ol>
@@ -46,7 +52,7 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 {:/nomarkdown}
 
 
-# Articles in Japanese
+#3 Articles in Japanese
 {::nomarkdown}
 <div id='publication'>
 <ol>
@@ -62,7 +68,7 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 
 
 
-## Book chapter
+## Books
 {::nomarkdown}
 <div id="publication">
 <ol>
@@ -73,7 +79,7 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 </ol>
 </div>
 {:/}
-# Reviews
+## Reviews
 {::nomarkdown}
 <div id='publication'>
 <ol>
@@ -86,7 +92,7 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 {:/nomarkdown}
 
 
-# Proceedings
+## Proceedings
 {::nomarkdown}
 <div id='publication'>
 <ol>
@@ -115,8 +121,8 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 {:/nomarkdown}
 
 
-# Research grants
-## Grants-in-Aid for Scientific Research from JSPS: 科研費他
+## Research grants
+### Grants-in-Aid for Scientific Research from JSPS: 科研費他
 {::nomarkdown}
 <ol>
 <li> 2022 – 2024年度 「産業連関分析とネットワーク科学の融合アプローチによる地域内経済循環構造の解明」<br> 挑戦的研究(萌芽)・研究分担者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18525/>課題番号 22K18525</a>
@@ -133,7 +139,7 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 {:/nomarkdown}
 
 
-## Other funds
+### Other funds
 {::nomarkdown}
 <ol>
 <li> 2023年度 「GPS 位置情報分析における非ポアソン性を考慮したグリットサイズ推定法」<br> 東京大学空間情報科学研究センター・研究費支援型共同研究・研究代表者
