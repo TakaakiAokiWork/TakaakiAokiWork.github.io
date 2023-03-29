@@ -3,7 +3,7 @@ layout: post
 title: "Statistical classification of open-ended survey responses with a network-based framework"
 date: 2019-07-18
 tags: GraphClustering OpenEndedSurvey MachineLearning CommunityDetection
-feature_image: voteclustering.jpgZ
+feature_image: voteclustering.jpg
 ---
 
 
