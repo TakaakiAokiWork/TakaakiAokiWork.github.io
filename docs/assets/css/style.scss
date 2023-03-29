@@ -45,4 +45,10 @@ div#publication button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+div#publication button:hover {
+        background-color: #008CBA; /* blue */
+        color: white;
 }
