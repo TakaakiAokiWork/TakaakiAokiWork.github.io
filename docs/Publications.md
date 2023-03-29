@@ -6,6 +6,16 @@ title: Papers and Grants
 # Papers and Grants
 My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en&user=e8x3baAAAAAJ).
 
+# Preprint
+{::nomarkdown}
+<div id='publication'>
+<ol>
+<li><span id='title'>City center identification as attractive places for people's collective movements</span>, <span id='me'>Takaaki Aoki</span>, Shota Fujishima &amp; Naoya Fujiwara, <a href=https://arxiv.org/abs/2211.14496>arXiv:2211.14496 [physics.soc-ph]</a>
+</ol>
+</div>
+{:/nomarkdown}
+
+
 # Articles
 {::nomarkdown}
 <div id='publication'>
@@ -80,18 +90,18 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 {::nomarkdown}
 <div id='publication'>
 <ol>
-<li><span id='title'>Scaling of Hodge-Kodaira decomposition distinguishes learning rules of neural networks**This work was supported by JSPS KAKENHI Grant Numbers 24120701, 24120708, 24700301, 24740266, 26520202 and 26520206.</span>, Keiji Miura &amp; <span id='me'>Takaaki Aoki</span>, <em>IFAC-PapersOnLine</em>, vol. 48(18), 175-180 (2015).<br>DOI: <a href=https://doi.org/https://doi.org/10.1016/j.ifacol.2015.11.032>https://doi.org/10.1016/j.ifacol.2015.11.032</a>
-<li><span id='title'>Network organization as a dynamical system**This work was supported by JSPS KAKENHI Grants No. 24120708, No. 24740266, No. 25115719, and No. 26520206.</span>, <span id='me'>Takaaki Aoki</span>, Koichiro Yawata &amp; Toshio Aoyagi, <em>IFAC-PapersOnLine</em>, vol. 48(18), 181-186 (2015).<br>DOI: <a href=https://doi.org/https://doi.org/10.1016/j.ifacol.2015.11.033>https://doi.org/10.1016/j.ifacol.2015.11.033</a>
+<li><span id='title'>Scaling of Hodge-Kodaira decomposition distinguishes learning rules of neural networks</span>, Keiji Miura &amp; <span id='me'>Takaaki Aoki</span>, <em>IFAC-PapersOnLine</em>, vol. 48(18), 175-180 (2015).<br>DOI: <a href=https://doi.org/https://doi.org/10.1016/j.ifacol.2015.11.032>https://doi.org/10.1016/j.ifacol.2015.11.032</a>
+<li><span id='title'>Network organization as a dynamical system</span>, <span id='me'>Takaaki Aoki</span>, Koichiro Yawata &amp; Toshio Aoyagi, <em>IFAC-PapersOnLine</em>, vol. 48(18), 181-186 (2015).<br>DOI: <a href=https://doi.org/https://doi.org/10.1016/j.ifacol.2015.11.033>https://doi.org/10.1016/j.ifacol.2015.11.033</a>
 <li><span id='title'>An Evolutionary Strategy For Adaptive Network Control and Synchronization and its Applications</span>, Francesco Scafuti, <span id='me'>Takaaki Aoki</span> &amp; Mario di Bernardo, <em>IFAC-PapersOnLine</em>, vol. 48(18), 193-198 (2015).<br>DOI: <a href=https://doi.org/https://doi.org/10.1016/j.ifacol.2015.11.035>https://doi.org/10.1016/j.ifacol.2015.11.035</a>
 <li><span id='title'>Co-evolving Network Dynamics between Reaction-Diffusive Resources on Nodes and Weighted Connections</span>, <span id='me'>Takaaki Aoki</span> &amp; Toshio Aoyagi, <em>IEICE Proceeding Series</em>, 574-577 (2014).<br>DOI: <a href=https://doi.org/10.15248/proc.1.574>10.15248/proc.1.574</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1390565162127545472> CiNii database</a>
 <li><span id='title'>トラフィックダイナミクスに基づくネットワーク自己組織化</span>, <span id='me'>Takaaki Aoki</span>, <em>電子情報通信学会技術研究報告</em>, 143-146 (2013).<br>Link to <a href=https://cir.nii.ac.jp/crid/1010000782227677084> CiNii database</a>
 <li><span id='title'>Self-organizing network of coupled neural oscillators with synaptic plasticity</span>, Aoki Takaaki, Kamitani Yuri &amp; Aoyagi Toshio, <em>IEICE Proceeding Series</em>, 350-353 (2011).<br>DOI: <a href=https://doi.org/10.34385/proc.45.b1l-c2>10.34385/proc.45.b1l-c2</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1390564227315377664> CiNii database</a>
 <li><span id='title'>Asymptotic behavior in a co-evolving network of neurons with synaptic plasticity</span>, Toshio Aoyagi Takaaki Aoki Yuri Kamitani, <em>The Proceedings of the 21st Annual Conference of the Japanese Neural Network Society</em>, 126-127 (2011).
 <li><span id='title'>Self-organized behaviors in an adaptive network of movable oscillators</span>, Aoki Takaaki &amp; Aoyagi Toshio, <em>IEICE Proceeding Series</em>, 410-413 (2010).<br>DOI: <a href=https://doi.org/10.34385/proc.44.b3l-b4>10.34385/proc.44.b3l-b4</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1390282752338654848> CiNii database</a>
-<li><span id='title'>結合強度が変化する位相振動子ネットワークの自己組織化</span>, <span id='me'>青木 高明</span> &amp; 青柳 富誌生, <em>電子情報通信学会技術研究報告 = IEICE technical report : 信学技報</em>, vol. 109(458), 103-108 (2010).<br>Link to <a href=https://cir.nii.ac.jp/crid/1520290883263245568> CiNii database</a>
+<li><span id='title'>結合強度が変化する位相振動子ネットワークの自己組織化</span>, <span id='me'>青木 高明</span> &amp; 青柳 富誌生, <em>電子情報通信学会技術研究報告</em>, vol. 109(458), 103-108 (2010).<br>Link to <a href=https://cir.nii.ac.jp/crid/1520290883263245568> CiNii database</a>
 <li><span id='title'>Asymptotic states of a recurrent network under ongoing synaptic plasticity</span>, Aoki Takaaki, Kamitani Yuri &amp; Aoyagi Toshio, <em>Neuroscience Research</em>, e436 (2010).<br>Link to <a href=https://cir.nii.ac.jp/crid/1010000782454483074> CiNii database</a>
 <li><span id='title'>位相振動子ネットワークの可塑性に基づいた自律的な「群れ」の形状形成</span>, <span id='me'>青木 高明</span> &amp; 青柳 富誌生, <em>第２２回自律分散システム・シンポジウム 講演論文集</em>, 171-174 (2010).<br>Link to <a href=https://cir.nii.ac.jp/crid/1010000782454483074> CiNii database</a>
-<li><span id='title'>非対称近傍関数の導入による自己組織化マップの学習過程の高速化</span>, 太田 絵一郎, <span id='me'>青木 高明</span> &amp; 倉田 耕治, <em>電子情報通信学会技術研究報告 = IEICE technical report : 信学技報</em>, vol. 109(124), 13-18 (2009).<br>Link to <a href=https://cir.nii.ac.jp/crid/1520009407251161600> CiNii database</a>
+<li><span id='title'>非対称近傍関数の導入による自己組織化マップの学習過程の高速化</span>, 太田 絵一郎, <span id='me'>青木 高明</span> &amp; 倉田 耕治, <em>電子情報通信学会技術研究報告</em>, vol. 109(124), 13-18 (2009).<br>Link to <a href=https://cir.nii.ac.jp/crid/1520009407251161600> CiNii database</a>
 <li><span id='title'>The evolving recurrent network of oscillatory neurons organized through the synaptic plasticity</span>, <span id='me'>青木 高明</span>, <em>Neuroscience Research</em>, s236 (2009).<br>Link to <a href=https://cir.nii.ac.jp/crid/1010000782454483083> CiNii database</a>
 <li><span id='title'>Typical behaviors in co-evolving recurrent network of oscillatory neurons</span>, Aoki Takaaki &amp; Aoyagi Toshio, <em>Frontiers in Systems Neuroscience. Conference Abstract: Computational and systems neuroscience</em>, (2009).<br>Link to <a href=https://cir.nii.ac.jp/crid/1010282257420927881> CiNii database</a>
 <li><span id='title'>Ordering Process of Self-Organizing Maps Improved by Asymmetric Neighborhood Function</span>, <span id='me'>Takaaki Aoki</span>, Kaiichiro Ota, Koji Kurata &amp; Toshio Aoyagi, <em>Proc. of International Conference on Neural Information Processing (ICONIP 2007)</em>, 426-435 (2008).<br>DOI: <a href=https://doi.org/10.1007/978-3-540-69158-7_45>10.1007/978-3-540-69158-7_45</a><br>Link to <a href=https://cir.nii.ac.jp/crid/1010282257420927889> CiNii database</a>

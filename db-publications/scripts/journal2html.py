@@ -72,6 +72,11 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     s = "<li>"
     s += "<span id='title'>{title}</span>, ".format(**e)
     s += "{formatted_authors}, ".format(**e)
+    if e["ENTRYTYPE"] == "misc": # Preprint
+        s += "<a href=https://arxiv.org/abs/{eprint}>{archiveprefix}:{eprint} [{primaryclass}]</a>".format(**e)
+        print(s)
+        continue
+
     if "fulljournal" in e:
         s += "<em>{fulljournal}</em>, ".format(**e)
     else:
