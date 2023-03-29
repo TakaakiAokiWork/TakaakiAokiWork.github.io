@@ -5,6 +5,11 @@ $content-width: 80%;
 
 @import "{{ site.theme }}";
 
+section {
+  width: 75%;
+  float:right;
+  padding-bottom:50px;
+}
 
 body {
         font: 18px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
