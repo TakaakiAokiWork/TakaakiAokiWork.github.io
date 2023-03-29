@@ -52,13 +52,14 @@ My Google Scholar Citations is [here](https://scholar.google.com/citations?hl=en
 
 
 ## Book chapter
+{::nomarkdown}
 <ol>
 <li>
 M. Satoshi, H. Nakamura, N. Higashi, T. Aoki (2017).
 <span id="title">Disaster Management and Integrated Economy in Early Modern Japan. Amakusa in the 19th Century.</span><br>
 in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy in a Comparative Perspective. Alps, Scandinavia, and Beyond.</em> (pp. 241-266). Zalo&#382;ba Univerze na Primorskem, Koper.
 </ol>
-
+{:/}
 # Reviews
 {::nomarkdown}
 <div id='publication'>
