@@ -1,9 +1,10 @@
 ---
 ---
 
+$content-width: 80%;
+
 @import "{{ site.theme }}";
 
-$content-width: 80%;
 
 body {
         font: 18px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
