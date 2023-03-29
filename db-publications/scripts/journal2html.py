@@ -53,8 +53,13 @@ def format_authors(authors):
     if len(list_authors) == 2:
         return " &amp; ".join(list_authors)
     if len(list_authors) >= 3:
-        return ", ".join(list_authors[0:-1]) + " \& " + list_authors[-1]
+        return ", ".join(list_authors[0:-1]) + " &amp; " + list_authors[-1]
 
+def format_title(title):
+    if title[0] == "{" and title[-1] == "}":
+        return title[1:-2]
+    else:
+        return title
 
 
 print("{::nomarkdown}")
@@ -63,6 +68,7 @@ print("<ol>")
 for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     bibtexparser.customization.author(e)
     e["formatted_authors"] = format_authors(e["author"])
+    e["title"] = format_title(e["title"])
     s = "<li>"
     s += "<span id='title'>{title}</span>, ".format(**e)
     s += "{formatted_authors}, ".format(**e)
@@ -75,8 +81,8 @@ for e in sorted(db.entries, key= lambda k: k["date"], reverse=True):
     else:
         s += "vol. {volume}, {pages} ".format(**e)
     s += "({year}).".format(**e)
-    if "pdf" in e:
-        s += "<br><a href=pdfs/{pdf}><button>Fulltext (free)</button></a>".format(**e)
+    if "fulltext" in e:
+        s += "<br><a href={fulltext}><button>Fulltext (free)</button></a>".format(**e)
     if "doi" in e:
         s += "<br>DOI: <a href=https://doi.org/{doi}>{doi}</a>".format(**e)
     if "url" in e:

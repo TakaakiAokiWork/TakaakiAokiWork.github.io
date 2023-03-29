@@ -10,5 +10,5 @@ publications:
 	echo "## Other funds" >> tmp/Publications.grant
 	python scripts/grants2html.py GrantOthers.json >> tmp/Publications.grant
 	python scripts/parse_talk.py Talk.json  > tmp/Publications.talk
-	cat ../docs/Publications.head tmp/Publications.review tmp/Publications.grant tmp/Publications.talk Publications_talk_before_2015.htm > ../docs/Publications.md
+	cat ../docs/Publications.head tmp/Publications.articles tmp/Publications.review tmp/Publications.grant tmp/Publications.talk Publications_talk_before_2015.htm > ../docs/Publications.md
 
