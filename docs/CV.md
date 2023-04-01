@@ -14,12 +14,13 @@ title: Curriculum vitae (経歴)
 - 2008 - 2011 JSPS Research Fellow
 - Apr., 2011 - Sep., 2011 Researcher of CREST, JST
 - Oct., 2011 - 2012 Assistant Professor (講師), Faculty of Education, Kagawa University
-- 2013 - Associate Professor, Faculty of Education, Kagawa University
+- 2013 - 2022 Associate Professor, Faculty of Education, Kagawa University
 - 2019.3 - 2020.2 Academic Visitor in Mathematical Institute in University of Oxford.
+- 2023 -  Associate Professor, Graduate school of Data Science, Shiga University
 
 ## 経歴 (in Japanese)
-
-- 2013(平成25)/4 - 現在	香川大学 教育学部 准教授
+- 2023(令和3)/4 - 現在	滋賀大学 データサイエンス学部 准教授
+- 2013(平成25)/4 - 2023(令和3)/3	香川大学 教育学部 准教授
 - 2019(平成30)/3 - 2020(令和2)/2	オックスフォード大学数学研究所 客員研究員
 - 2011(平成23)/10 - 2013(平成25)/3	香川大学 教育学部 講師
 - 2011(平成23)/4 - 2011(平成23)/9	京都大学 CREST研究員 (産官学連携)
