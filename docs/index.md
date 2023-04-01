@@ -7,13 +7,12 @@ Takaaki Aoki (青木 高明)
 
 <img src="./img/face.jpg" alt="face" width="180" height="240" class="img-rounded">
 
-Associate Professor, Faculty of Education, Kagawa University
+Associate Professor, Graduate school of Data Science, Shiga University
 
-<span class="glyphicon glyphicon-envelope"></span> aoki.takaaki<span class="no-spam">nospamword</span>@kagawa-u.ac.jp
+<span class="glyphicon glyphicon-envelope"></span>takaaki-aoki<span class="no-spam">nospamword</span>@biwako.shiga-u.ac.jp
 
-〒760-8521 香川県高松市幸町１−１
-香川大学 教育学部
-北1号館3階 青木教員研究室
+〒522-8522　滋賀県彦根市馬場1-1-1
+滋賀大学データサイエンス学部
 
 
 研究についての解説は[こちら](./Research.html)を見てください．
