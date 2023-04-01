@@ -5,7 +5,8 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 1260px;
+  /*width: 1260px;*/
+  width: auto;
   margin:0 auto;
 }
 section {
