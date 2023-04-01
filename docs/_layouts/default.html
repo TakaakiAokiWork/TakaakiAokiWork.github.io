@@ -33,6 +33,7 @@
 
       
         Table of contents:
+        <small>
         <ul>
           <li><a href="{{absolute_url}}/Research">Research : 研究</a></li>
           <li><a href="{{absolute_url}}/Teaching">Teaching and Outreach : 授業・教育</a></li>
@@ -49,6 +50,7 @@
           <li><a href="{{absolute_url}}/CV">Curriculum vitae : 経歴</a></li>
           <li><a href="{{absolute_url}}/Access">Access : 研究室への行き方</a></li>
         </ul>
+        </small>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -67,12 +69,6 @@
         {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
