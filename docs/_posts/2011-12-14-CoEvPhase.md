@@ -12,7 +12,7 @@ We investigated a network of coupled phase oscillators whose interactions evolve
         
 <p class="text-center">
   <video width="500" height="500" controls="controls">
-		<source src="/assets/ChosTraj.webm" type="video/webm" />
+		<source src="/assets/ChaosTraj.webm" type="video/webm" />
   </video>
 </p>
 
@@ -22,7 +22,7 @@ We investigated a network of coupled phase oscillators whose interactions evolve
    <em>Physical Review Letters</em>, vol.102, 034101 (2009)..  <br>
     DOI:  <a href=http://dx.doi.org/10.1103/PhysRevLett.102.034101>10.1103/PhysRevLett.102.034101</a>
 
-- **Self-organized network of phase oscillators coupled by activity-dependent interactions**,
+- **Self-organized network of phase oscillators coupled by activity-dependent interactions**, 
   Takaaki AOKI , Koichiro YAWATA and Toshio AOYAGI,  <br>
   <em>Physical Review E</em>, vol. 84, Issue 6, 066109 (2011).  <br>
 DOI: <a href=http://link.aps.org/doi/10.1103/PhysRevE.84.066109>10.1103/PhysRevE.84.066109</a> 
