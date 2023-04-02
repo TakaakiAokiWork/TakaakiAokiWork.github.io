@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Papers and Grants
+toc_detail: yes
 ---
 
 # Papers and Grants
