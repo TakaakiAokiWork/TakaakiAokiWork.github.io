@@ -5,19 +5,18 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  /*width: 1260px;*/
-  width: auto;
+  width: 1260px;
+  /*width: auto;*/
   margin:0 auto;
 }
 section {
   width: 900px;
-  width: auto;
+  /*width: auto;*/
   float:right;
   padding-bottom:50px;
 }
 
 @media print, screen and (max-width: 1260px) {
-
   div.wrapper {
     width:auto;
     margin:0;
