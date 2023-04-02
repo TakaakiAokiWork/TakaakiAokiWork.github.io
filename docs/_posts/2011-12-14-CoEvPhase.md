@@ -19,10 +19,10 @@ We investigated a network of coupled phase oscillators whose interactions evolve
 # Literature
 - **Co-evolution of phases and connection strengths in a network of phase oscillators**, 
   Takaaki AOKI and Toshio AOYAGI, <br>
-   <em>Physical Review Letters</em>, vol.102, 034101 (2009)..  <br>
-    DOI:  <a href=http://dx.doi.org/10.1103/PhysRevLett.102.034101>10.1103/PhysRevLett.102.034101</a>
+   <em>Physical Review Letters</em>, vol.102, 034101 (2009).  <br>
+    DOI: [10.1103/PhysRevLett.102.034101](http://dx.doi.org/10.1103/PhysRevLett.102.034101)
 
 - **Self-organized network of phase oscillators coupled by activity-dependent interactions**, 
   Takaaki AOKI , Koichiro YAWATA and Toshio AOYAGI,  <br>
   <em>Physical Review E</em>, vol. 84, Issue 6, 066109 (2011).  <br>
-DOI: <a href=http://link.aps.org/doi/10.1103/PhysRevE.84.066109>10.1103/PhysRevE.84.066109</a> 
+   DOI: [10.1103/PhysRevE.84.066109](http://link.aps.org/doi/10.1103/PhysRevE.84.066109) 
