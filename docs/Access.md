@@ -5,29 +5,28 @@ permalink: /Access
 ---
 
 # Office Address
-Faculty of Education, Kagawa University:
-1-1 Saiwai-cho, Takamatsu, Kagawa 760-8521, JAPAN
+Shiga University 1-1-1 Banba, Hikone, Shiga 522-8522 JAPAN
 
-# Access to Kagawa University (Saiwai-cho campus)
+# Access to Shiga University (Hikone campus)
+![Access](https://www.ds.shiga-u.ac.jp/assets/images/en/access/img-access.png)
 
-Access to Saiwai-cho campus ([English](http://www.ed.kagawa-u.ac.jp/english/access/access.html)/ [日本語](https://www.ed.kagawa-u.ac.jp/access/access.html))
-
-The nearest airport is Takamatsu airport. There is shuttle bus from the airport to JR Takamatsu railway station. By taxi, it takes 30minutes from the airport to the campus (Fare : about 4,700yen).
-
-From JR Takamatsu railway station To Saiwai-cho campus, then 20 minutes walk to the campus. [Google Map](https://goo.gl/maps/JrQYj)
+Access to Hikone campus ([English](https://www.ds.shiga-u.ac.jp/en/access/)/ [日本語](https://www.ds.shiga-u.ac.jp/access/))
 
 
-香川大学にはいくつかのキャンパスがありますが，その内の幸町キャンパスに研究室があります．
+From Hikone railway station, there are several choices, taking the Direct bus, a taxi or on foot.
+- [DIrect bus timetable](https://www.shiga-u.ac.jp/wp/wp-content/uploads/hikone_bus-timetable.pdf)
 
-最寄りの空港は高松空港です．空港からJR高松駅へ，シャトルバスが出ています． 高松空港からは、乗り合いタクシーも便利です(要予約)。詳しくは東讃タクシーにお問い合わせください。 一般のタクシーだと空港から幸町キャンパスまでは30分ぐらいかかります．
 
-JR高松駅から幸町キャンパスは徒歩で15分から20分ぐらいの距離です． [Google Map](https://goo.gl/maps/JrQYj)
+JR琵琶湖線（東海道本線）彦根駅西口より、次の交通手段をご利用ください。
+直行バスで約10分
+（土・日・祝日、夏季一斉休業期間、年末年始は運休）
+
 
 # Campus map
 
-[Campus Map](http://www.ed.kagawa-u.ac.jp/english/access/campus.html)
-My office is on the 3nd floor in North Block 1.
+![Campus Map](https://www.ds.shiga-u.ac.jp/assets/images/en/access/img-campusmap.png)
+My office is on the 5nd floor (Room 508) in Data Science building (No. 6 in the map).
 
 # Accommodations
 
-If you just need an accommodation for a few days, you can find a place to stay that suits exactly your needs. Thanks to the campus’ position in the city centre, there are also plenty of hotels available near the University.
+If you just need an accommodation for a few days, you can find a place to stay that suits exactly your needs. Thanks to the campus’s position in the city centre, there are also plenty of hotels available near our campus.
