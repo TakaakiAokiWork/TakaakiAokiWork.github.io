@@ -57,7 +57,7 @@ def format_authors(authors):
 
 def format_title(title):
     if title[0] == "{" and title[-1] == "}":
-        return title[1:-2]
+        return title[1:-1]
     else:
         return title
 

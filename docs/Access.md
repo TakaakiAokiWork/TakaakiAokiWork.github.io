@@ -14,7 +14,7 @@ Access to Hikone campus ([English](https://www.ds.shiga-u.ac.jp/en/access/)/ [�
 
 
 From Hikone railway station, there are several choices, taking the Direct bus, a taxi or on foot.
-- [DIrect bus timetable](https://www.shiga-u.ac.jp/wp/wp-content/uploads/hikone_bus-timetable.pdf)
+- [Direct bus timetable](https://www.shiga-u.ac.jp/wp/wp-content/uploads/hikone_bus-timetable.pdf)
 
 
 JR琵琶湖線（東海道本線）彦根駅西口より、次の交通手段をご利用ください。
@@ -25,7 +25,7 @@ JR琵琶湖線（東海道本線）彦根駅西口より、次の交通手段を
 # Campus map
 
 ![Campus Map](https://www.ds.shiga-u.ac.jp/assets/images/en/access/img-campusmap.png)
-My office is on the 5nd floor (Room 508) in Data Science building (No. 6 in the map).
+My office is on the 5nd floor (Room 508) in Faculty Office building (研究棟) at No. 5 in the map.
 
 # Accommodations
 
