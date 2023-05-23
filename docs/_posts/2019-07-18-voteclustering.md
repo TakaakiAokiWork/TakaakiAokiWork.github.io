@@ -11,7 +11,7 @@ Our new paper with Tatsuro Kawamoto, "Democratic classification of free-format s
 
 # Reference
 
-<strong>Democratic classification of free-format survey responses with a network-based framewor</strong>, Tatsuro Kawamoto &amp; <span id='me'>Takaaki Aoki</span>, <em>Nature Machine Intelligence</em>, vol. 1(7), 322--327 (2019).<br>DOI: <a href=https://doi.org/10.1038/s42256-019-0071-y>10.1038/s42256-019-0071-y</a>
+<strong>Democratic classification of free-format survey responses with a network-based framewor</strong>, Tatsuro Kawamoto &amp; <span id='me'>Takaaki Aoki</span>, <em>Nature Machine Intelligence</em>, vol. 1(7), 322--327 (2019).<br>DOI: [10.1038/s42256-019-0071-y](https://doi.org/10.1038/s42256-019-0071-y)
 
 
 
