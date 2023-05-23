@@ -11,7 +11,7 @@ Our new paper with Naoya Fujiwara, Mark Fricker and Toshiyuki Nakagaki, "A model
 
 # Reference
 
-<strong>A model for simulating emergent patterns of cities and roads on real-world landscapes</strong>, <span id='me'>Takaaki Aoki</span>, Naoya Fujiwara, Mark Fricker &amp; Toshiyuki Nakagaki, <em>Scientific reports</em>, vol. 12(1), 10093 (2022).<br>DOI: <a href=https://doi.org/10.1038/s41598-022-13758-1>10.1038/s41598-022-13758-1</a>
+<strong>A model for simulating emergent patterns of cities and roads on real-world landscapes</strong>, <span id='me'>Takaaki Aoki</span>, Naoya Fujiwara, Mark Fricker &amp; Toshiyuki Nakagaki, <em>Scientific reports</em>, vol. 12(1), 10093 (2022).<br>DOI: [10.1038/s41598-022-13758-1](https://doi.org/10.1038/s41598-022-13758-1)
 
 
 # Press release in Japanese
