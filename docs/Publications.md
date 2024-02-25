@@ -169,6 +169,13 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2023年度
 <ol>
+<li>Where are livable cities by voting with migrants feet?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第3回計算社会科学会大会(CSSJ2024)(2024/2/19-20), 2024/02/20, 大阪大学中之島センター, 大阪府大阪市北区中之島, Japan, Oral. </li>
+<li>街と道ができる条件:イタリアのシミュレーションから, Takaaki Aoki, 震災・災害シンポジウム2023(2024/2/17), 2024/02/17, online, Oral. </li>
+<li>Potential of migration flow: Which municipalities attract residents?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第37回応用地域学会研究発表大会(2023/12/9-10), 2023/12/10, 大阪大学豊中キャンパス, 大阪府豊中市待兼山町, Japan, Oral. </li>
+<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki, Shinsuke Koyama, and Naoya Fujiwara, CSIS DAYS 2022 全国共同利用研究発表大会(2023/11/24-25), 2023/11/25, The University of Tokyo, Kashiwa, Chiba, Japan, Oral. </li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Applied Algebraic Topology Research Network (AATRN)(2023/11/15), 2023/11/15, online, Oral. </li>
+<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki, 第17回 数理モデリング研究会(2023/9/26-28), 2023/09/27, NII国際高等セミナーハウス, 長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471, Japan, Oral. </li>
+<li>A Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes, Takaaki Aoki, 国際シンポジウム・ワークショップ　“GISを用いて言語情報と非言語情報をつなぐ”(2023/9/22-25), 2023/09/24, 国立民族学博物館, 千里万博公園10-1, 吹田市, Japan, Oral. </li>
 <li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)(2023/8/20-25), 2023/08/24, Waseda University, Tokyo, Japan, 西早稲田1-6-1, 早稲田大学敷地内, 新宿区, JP 169-0051, Japan, Oral. </li>
 <li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/8/7-11), 2023/08/10, The University of Tokyo, Hongo campus, Tokyo, Japan, 7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan, Oral. </li>
 <li>A model of city formation and scaling laws, Yuzan Liu, Takaaki Aoki, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/8/7-11), 2023/08/08, The University of Tokyo, Hongo campus, Tokyo, Japan, 7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan, Poster. </li>

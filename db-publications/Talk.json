@@ -678,4 +678,88 @@
     "PLACE": "Waseda University, Tokyo, Japan",
     "TITLE": "Potential field of human flow extracted by Hodge-Kodaira decomposition"
   }
+  ,
+  {
+    "ADDRESS": "千里万博公園10-1, 吹田市",
+    "AUTHORS": "Takaaki Aoki",
+    "CONF_DATE": "2023/9/22-25",
+    "CONF_NAME": "国際シンポジウム・ワークショップ　“GISを用いて言語情報と非言語情報をつなぐ”",
+    "TALK_DATE": "2023/9/24",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "国立民族学博物館",
+    "TITLE": "A Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes"
+  }
+  ,
+  {
+    "ADDRESS": "長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471",
+    "AUTHORS": "Takaaki Aoki",
+    "CONF_DATE": "2023/9/26-28",
+    "CONF_NAME": "第17回 数理モデリング研究会",
+    "TALK_DATE": "2023/9/27",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "NII国際高等セミナーハウス",
+    "TITLE": "GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験"
+  }
+  ,
+  {
+    "TITLE": "Potential landscape of human flow in cities",
+    "PLACE": "online",
+    "ADDRESS": "",
+    "COUNTRY": "Japan",
+    "CONF_NAME": "Applied Algebraic Topology Research Network (AATRN)",
+    "CONF_DATE": "2023/11/15",
+    "TALK_DATE": "2023/11/15",
+    "AUTHORS": "Takaaki Aoki",
+    "TALK_TYPE": "Oral"
+  }
+  ,
+  {
+    "TITLE": "GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験",
+    "PLACE": "The University of Tokyo",
+    "ADDRESS": "Kashiwa, Chiba",
+    "COUNTRY": "Japan",
+    "CONF_NAME": "CSIS DAYS 2022 全国共同利用研究発表大会",
+    "CONF_DATE": "2023/11/24-25",
+    "TALK_DATE": "2023/11/25",
+    "AUTHORS": "Takaaki Aoki, Shinsuke Koyama, and Naoya Fujiwara",
+    "TALK_TYPE": "Oral"
+  }
+  ,
+  {
+    "TITLE": "Potential of migration flow: Which municipalities attract residents?",
+    "PLACE": "大阪大学豊中キャンパス",
+    "ADDRESS": "大阪府豊中市待兼山町",
+    "COUNTRY": "Japan",
+    "CONF_NAME": "第37回応用地域学会研究発表大会",
+    "CONF_DATE": "2023/12/9-10",
+    "TALK_DATE": "2023/12/10",
+    "AUTHORS": "Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane",
+    "TALK_TYPE": "Oral"
+  }
+  ,
+  {
+    "TITLE": "街と道ができる条件:イタリアのシミュレーションから",
+    "PLACE": "online",
+    "ADDRESS": "",
+    "COUNTRY": "",
+    "CONF_NAME": "震災・災害シンポジウム2023",
+    "CONF_DATE": "2024/2/17",
+    "TALK_DATE": "2024/2/17",
+    "AUTHORS": "Takaaki Aoki",
+    "TALK_TYPE": "Oral"
+  }
+  ,
+  {
+    "TITLE": "Where are livable cities by voting with migrants feet?",
+    "PLACE": "大阪大学中之島センター",
+    "ADDRESS": "大阪府大阪市北区中之島",
+    "COUNTRY": "Japan",
+    "CONF_NAME": "第3回計算社会科学会大会(CSSJ2024)",
+    "CONF_DATE": "2024/2/19-20",
+    "TALK_DATE": "2024/2/20",
+    "AUTHORS": "Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane",
+    "TALK_TYPE": "Oral"
+  }
 ]
