@@ -600,5 +600,82 @@
     "COUNTRY": "Japan",
     "PLACE": "Research Institute for Mathematical Sciences, Kyoto University",
     "TITLE": "Potential field of human flow extracted by Hodge-Kodaira decomposition"
+  },
+  {
+    "ADDRESS": "兵庫県神戸市灘区鶴甲３丁目１１",
+    "AUTHORS": "Takaaki Aoki",
+    "CONF_DATE": "2023/5/26",
+    "CONF_NAME": "Kobe Studio Seminar",
+    "TALK_DATE": "2023/5/26",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "神戸大学",
+    "TITLE": "人の流れから都市の姿を描く"
+  },
+  {
+    "ADDRESS": "Vienna, Austria",
+    "AUTHORS": "Takaaki Aoki",
+    "CONF_DATE": "2023/7/10-14",
+    "TALK_DATE": "2023/7/11",
+    "CONF_NAME": "Networks & cities NETSCI2023 Satellite",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Austria",
+    "PLACE": "University of Vienna",
+    "TITLE": "Identifying sinks and sources of human flows"
+  },
+  {
+    "ADDRESS": "Vienna, Austria",
+    "AUTHORS": "Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara",
+    "CONF_DATE": "2023/7/10-14",
+    "TALK_DATE": "2023/7/13",
+    "CONF_NAME": "NETSCI2023",
+    "TALK_TYPE": "Poster",
+    "COUNTRY": "Austria",
+    "PLACE": "University of Vienna",
+    "TITLE": "Potential landscape of human flow in cities"
+  },
+  {
+    "ADDRESS": "滋賀県大津市下阪本１丁目１−１",
+    "AUTHORS": "Takaaki Aoki",
+    "CONF_DATE": "2023/7/29-30",
+    "CONF_NAME": "第16回京都算楽会",
+    "TALK_DATE": "2023/7/29",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "KKR ホテルびわこ",
+    "TITLE": "人の流れから都市の姿を描く"
+  },
+  {
+    "ADDRESS": "7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033",
+    "AUTHORS": "Yuzan Liu, Takaaki Aoki, and Naoya Fujiwara",
+    "CONF_DATE": "2023/8/7-11",
+    "CONF_NAME": "28th International Conference on Statistical Physics, Statphys28",
+    "TALK_DATE": "2023/8/8",
+    "TALK_TYPE": "Poster",
+    "COUNTRY": "Japan",
+    "PLACE": "The University of Tokyo, Hongo campus, Tokyo, Japan",
+    "TITLE": "A model of city formation and scaling laws"
+  },
+  {
+    "ADDRESS": "7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033",
+    "AUTHORS": "Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara",
+    "CONF_DATE": "2023/8/7-11",
+    "CONF_NAME": "28th International Conference on Statistical Physics, Statphys28",
+    "TALK_DATE": "2023/8/10",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "The University of Tokyo, Hongo campus, Tokyo, Japan",
+    "TITLE": "Potential landscape of human flow in cities"
+  },
+  {
+    "ADDRESS": "西早稲田1-6-1, 早稲田大学敷地内, 新宿区, JP 169-0051",
+    "AUTHORS": "Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara",
+    "CONF_DATE": "2023/8/20-25",
+    "CONF_NAME": "10th International Congress on Industrial and Applied Mathematics (ICIAM2023)",
+    "TALK_DATE": "2023/8/24",
+    "TALK_TYPE": "Oral",
+    "COUNTRY": "Japan",
+    "PLACE": "Waseda University, Tokyo, Japan",
+    "TITLE": "Potential field of human flow extracted by Hodge-Kodaira decomposition"
   }
 ]

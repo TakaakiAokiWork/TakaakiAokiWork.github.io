@@ -19,7 +19,6 @@ Table of contents
 {::nomarkdown}
 <div id='publication'>
 <ol>
-<li><strong>City center identification as attractive places for people's collective movements</strong>, <span id='me'>Takaaki Aoki</span>, Shota Fujishima &amp; Naoya Fujiwara, <a href=https://arxiv.org/abs/2211.14496>arXiv:2211.14496 [physics.soc-ph]</a>
 </ol>
 </div>
 {:/nomarkdown}
@@ -168,6 +167,18 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 
 
 ## Talks
+#### 2023年度
+<ol>
+<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)(2023/8/20-25), 2023/08/24, Waseda University, Tokyo, Japan, 西早稲田1-6-1, 早稲田大学敷地内, 新宿区, JP 169-0051, Japan, Oral. </li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/8/7-11), 2023/08/10, The University of Tokyo, Hongo campus, Tokyo, Japan, 7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan, Oral. </li>
+<li>A model of city formation and scaling laws, Yuzan Liu, Takaaki Aoki, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/8/7-11), 2023/08/08, The University of Tokyo, Hongo campus, Tokyo, Japan, 7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan, Poster. </li>
+<li>人の流れから都市の姿を描く, Takaaki Aoki, 第16回京都算楽会(2023/7/29-30), 2023/07/29, KKR ホテルびわこ, 滋賀県大津市下阪本１丁目１−１, Japan, Oral. </li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, NETSCI2023(2023/7/10-14), 2023/07/13, University of Vienna, Vienna, Austria, Austria, Poster. </li>
+<li>Identifying sinks and sources of human flows, Takaaki Aoki, Networks & cities NETSCI2023 Satellite(2023/7/10-14), 2023/07/11, University of Vienna, Vienna, Austria, Austria, Oral. </li>
+<li>人の流れから都市の姿を描く, Takaaki Aoki, Kobe Studio Seminar(2023/5/26), 2023/05/26, 神戸大学, 兵庫県神戸市灘区鶴甲３丁目１１, Japan, Oral. </li>
+</ol>
+
+
 #### 2022年度
 <ol>
 <li>人の流れから都市の姿を描く, Takaaki Aoki, キヤノングローバル戦略研究所 経済・社会との分野横断的研究会(2022/12/15), 2022/12/15, 日本工業倶楽部, 東京都千代田区丸の内1の4, Japan, Oral. </li>
