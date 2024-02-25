@@ -169,6 +169,7 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2023年度
 <ol>
+<li>移住者を引き付ける魅力とは？移住者流動のポテンシャル分析, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 日本物理学会 2024年春季大会(2024/3/18-21), 2024/03/21, online, Oral. </li>
 <li>Where are livable cities by voting with migrants feet?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第3回計算社会科学会大会(CSSJ2024)(2024/2/19-20), 2024/02/20, 大阪大学中之島センター, 大阪府大阪市北区中之島, Japan, Oral. </li>
 <li>街と道ができる条件:イタリアのシミュレーションから, Takaaki Aoki, 震災・災害シンポジウム2023(2024/2/17), 2024/02/17, online, Oral. </li>
 <li>Potential of migration flow: Which municipalities attract residents?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第37回応用地域学会研究発表大会(2023/12/9-10), 2023/12/10, 大阪大学豊中キャンパス, 大阪府豊中市待兼山町, Japan, Oral. </li>
