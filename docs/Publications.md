@@ -128,6 +128,8 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ### Grants-in-Aid for Scientific Research from JSPS: 科研費他
 {::nomarkdown}
 <ol>
+<li> 2024 – 2026年度 「GPS位置情報分析における適切な空間スケールの推定手法の開発と実証実験」<br> 基盤研究(C)・研究代表者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K07699/>課題番号 24K07699</a>
+<li> 2024 – 2025年度 「数理地理モデリングによる都市形成『実験』環境の開発」<br> 学術変革領域研究(A)・研究代表者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PUBLICLY-24H01473/>課題番号 24H01473</a>
 <li> 2022 – 2024年度 「産業連関分析とネットワーク科学の融合アプローチによる地域内経済循環構造の解明」<br> 挑戦的研究(萌芽)・研究分担者<br> <a href=https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18525/>課題番号 22K18525</a>
 <li> 2021 – 2025年度 「原シルクロードの形成－中央アジア山岳地帯の初期開発史に関する総合研究－」<br> 基盤研究(A)・研究分担者<br> <a href=https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04357/>課題番号 21H04357</a>
 <li> 2021 – 2023年度 「人流ネットワークに特化した数理解析基盤の整備とその応用」<br> 基盤研究(B)・研究分担者<br> <a href=https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H03507/>課題番号 21H03507</a>

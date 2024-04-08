@@ -1,0 +1,11 @@
+1.
+Go to Kaken DB web site
+https://nrid.nii.ac.jp/en/nrid/1000030553284/
+
+2. Export in CSV format in english version
+
+3. Convert CSV to Json
+
+4. Copy and paste to Grants.Json
+- edit year, ID fields
+- add yrl field
