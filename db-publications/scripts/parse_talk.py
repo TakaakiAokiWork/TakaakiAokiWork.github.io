@@ -14,7 +14,7 @@ print('## Talks')
 # year(年度)カラムを追加
 df['Year'] = df['発表年月日'].dt.year
 df.loc[df['発表年月日'].dt.month < 4, 'Year'] = df['発表年月日'].dt.year - 1
-df['発表年月日'] = df['発表年月日'].dt.strftime("%Y-%m-%d")
+df['発表年月日'] = df['発表年月日'].dt.strftime("%Y/%m/%d")
 
 grp = df.groupby("Year")
 for year in sorted(grp.groups, reverse=True):
@@ -23,8 +23,11 @@ for year in sorted(grp.groups, reverse=True):
     for i,d in grp.get_group(year).sort_values("発表年月日", ascending=False).iterrows():
         s = "<li>{タイトル(日本語)}, {講演者(日本語)}".format(**d)
         if d["開催年月日(To)"] != "":
+            d['開催年月日(From)'] = dt.strptime(d['開催年月日(From)'], '%Y-%m-%d').strftime("%Y/%m/%d")
+            d['開催年月日(To)'] = dt.strptime(d['開催年月日(To)'], '%Y-%m-%d').strftime("%Y/%m/%d")
             s += "{会議名(日本語)}({開催年月日(From)}-{開催年月日(To)}), {発表年月日}".format(**d)
         else:
+            d['開催年月日(From)'] = dt.strptime(d['開催年月日(From)'], '%Y-%m-%d').strftime("%Y/%m/%d")
             s += "{会議名(日本語)}({開催年月日(From)}), {発表年月日}".format(**d)
         if len(d["開催地(日本語)"]) > 0:
             d["country"] = pycountry.countries.get(alpha_3=d['国・地域']).name
