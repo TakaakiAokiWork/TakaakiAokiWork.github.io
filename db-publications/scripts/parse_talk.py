@@ -21,7 +21,7 @@ for year in sorted(grp.groups, reverse=True):
     print("#### %d年度" % year)
     print("<ol>")
     for i,d in grp.get_group(year).sort_values("発表年月日", ascending=False).iterrows():
-        s = "<li>{タイトル(日本語)}, {講演者(日本語)}".format(**d)
+        s = "<li>{タイトル(日本語)}, {講演者(日本語)}, ".format(**d)
         if d["開催年月日(To)"] != "":
             d['開催年月日(From)'] = dt.strptime(d['開催年月日(From)'], '%Y-%m-%d').strftime("%Y/%m/%d")
             d['開催年月日(To)'] = dt.strptime(d['開催年月日(To)'], '%Y-%m-%d').strftime("%Y/%m/%d")

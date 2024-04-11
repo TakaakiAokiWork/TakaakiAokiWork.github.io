@@ -171,107 +171,107 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2023年度
 <ol>
-<li>移住者を引き付ける魅力とは？移住者流動のポテンシャル分析, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane日本物理学会 2024年春季大会(2024/03/18-2024/03/21), 2024/03/21,online, Japan,oral</li>
-<li>Where are livable cities by voting with migrants feet?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane第3回計算社会科学会大会(CSSJ2024)(2024/02/19-2024/02/20), 2024/02/20,大阪府大阪市北区中之島 大阪大学中之島センター, Japan,oral</li>
-<li>街と道ができる条件:イタリアのシミュレーションから, Takaaki Aoki震災・災害シンポジウム2023(2024/02/17), 2024/02/17,online, Japan,oral</li>
-<li>Potential of migration flow: Which municipalities attract residents?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane第37回応用地域学会研究発表大会(2023/12/09-2023/12/10), 2023/12/10,大阪府豊中市待兼山町 大阪大学豊中キャンパス, Japan,oral</li>
-<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki, Shinsuke Koyama, and Naoya FujiwaraCSIS DAYS 2022 全国共同利用研究発表大会(2023/11/24-2023/11/25), 2023/11/25,Kashiwa, Chiba The University of Tokyo, Japan,oral</li>
-<li>Potential landscape of human flow in cities, Takaaki AokiApplied Algebraic Topology Research Network (AATRN)(2023/11/15), 2023/11/15,online, United States,oral</li>
-<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki第17回 数理モデリング研究会(2023/09/26-2023/09/28), 2023/09/27,長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471 NII国際高等セミナーハウス, Japan,oral</li>
-<li>A Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes, Takaaki Aoki国際シンポジウム・ワークショップ　“GISを用いて言語情報と非言語情報をつなぐ”(2023/09/22-2023/09/25), 2023/09/24,千里万博公園10-1, 吹田市 国立民族学博物館, Japan,oral</li>
-<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara10th International Congress on Industrial and Applied Mathematics (ICIAM2023)(2023/08/20-2023/08/25), 2023/08/24,西早稲田1-6-1, 早稲田大学敷地内, 新宿区, JP 169-0051 Waseda University, Tokyo, Japan, Japan,oral</li>
-<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara28th International Conference on Statistical Physics, Statphys28(2023/08/07-2023/08/11), 2023/08/10,7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033 The University of Tokyo, Hongo campus, Tokyo, Japan, Japan,oral</li>
-<li>A model of city formation and scaling laws, Yuzan Liu, Takaaki Aoki, and Naoya Fujiwara28th International Conference on Statistical Physics, Statphys28(2023/08/07-2023/08/11), 2023/08/08,7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033 The University of Tokyo, Hongo campus, Tokyo, Japan, Japan,poster</li>
-<li>人の流れから都市の姿を描く, Takaaki Aoki第16回京都算楽会(2023/07/29-2023/07/30), 2023/07/29,滋賀県大津市下阪本１丁目１−１ KKR ホテルびわこ, Japan,oral</li>
-<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya FujiwaraNETSCI2023(2023/07/10-2023/07/14), 2023/07/13,Vienna, Austria University of Vienna, Austria,poster</li>
-<li>Identifying sinks and sources of human flows, Takaaki AokiNetworks & cities NETSCI2023 Satellite(2023/07/10-2023/07/14), 2023/07/11,Vienna, Austria University of Vienna, Austria,oral</li>
-<li>人の流れから都市の姿を描く, Takaaki AokiKobe Studio Seminar(2023/05/26), 2023/05/26,兵庫県神戸市灘区鶴甲３丁目１１ 神戸大学, Japan,oral</li>
+<li>移住者を引き付ける魅力とは？移住者流動のポテンシャル分析, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 日本物理学会 2024年春季大会(2024/03/18-2024/03/21), 2024/03/21,online, Japan,oral</li>
+<li>Where are livable cities by voting with migrants feet?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第3回計算社会科学会大会(CSSJ2024)(2024/02/19-2024/02/20), 2024/02/20,大阪府大阪市北区中之島 大阪大学中之島センター, Japan,oral</li>
+<li>街と道ができる条件:イタリアのシミュレーションから, Takaaki Aoki, 震災・災害シンポジウム2023(2024/02/17), 2024/02/17,online, Japan,oral</li>
+<li>Potential of migration flow: Which municipalities attract residents?, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 第37回応用地域学会研究発表大会(2023/12/09-2023/12/10), 2023/12/10,大阪府豊中市待兼山町 大阪大学豊中キャンパス, Japan,oral</li>
+<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki, Shinsuke Koyama, and Naoya Fujiwara, CSIS DAYS 2022 全国共同利用研究発表大会(2023/11/24-2023/11/25), 2023/11/25,Kashiwa, Chiba The University of Tokyo, Japan,oral</li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Applied Algebraic Topology Research Network (AATRN)(2023/11/15), 2023/11/15,online, United States,oral</li>
+<li>GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験, Takaaki Aoki, 第17回 数理モデリング研究会(2023/09/26-2023/09/28), 2023/09/27,長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471 NII国際高等セミナーハウス, Japan,oral</li>
+<li>A Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes, Takaaki Aoki, 国際シンポジウム・ワークショップ　“GISを用いて言語情報と非言語情報をつなぐ”(2023/09/22-2023/09/25), 2023/09/24,千里万博公園10-1, 吹田市 国立民族学博物館, Japan,oral</li>
+<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)(2023/08/20-2023/08/25), 2023/08/24,西早稲田1-6-1, 早稲田大学敷地内, 新宿区, JP 169-0051 Waseda University, Tokyo, Japan, Japan,oral</li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/08/07-2023/08/11), 2023/08/10,7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033 The University of Tokyo, Hongo campus, Tokyo, Japan, Japan,oral</li>
+<li>A model of city formation and scaling laws, Yuzan Liu, Takaaki Aoki, and Naoya Fujiwara, 28th International Conference on Statistical Physics, Statphys28(2023/08/07-2023/08/11), 2023/08/08,7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033 The University of Tokyo, Hongo campus, Tokyo, Japan, Japan,poster</li>
+<li>人の流れから都市の姿を描く, Takaaki Aoki, 第16回京都算楽会(2023/07/29-2023/07/30), 2023/07/29,滋賀県大津市下阪本１丁目１−１ KKR ホテルびわこ, Japan,oral</li>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Shota Fujishima, and Naoya Fujiwara, NETSCI2023(2023/07/10-2023/07/14), 2023/07/13,Vienna, Austria University of Vienna, Austria,poster</li>
+<li>Identifying sinks and sources of human flows, Takaaki Aoki, Networks & cities NETSCI2023 Satellite(2023/07/10-2023/07/14), 2023/07/11,Vienna, Austria University of Vienna, Austria,oral</li>
+<li>人の流れから都市の姿を描く, Takaaki Aoki, Kobe Studio Seminar(2023/05/26), 2023/05/26,兵庫県神戸市灘区鶴甲３丁目１１ 神戸大学, Japan,oral</li>
 </ol>
 
 
 #### 2022年度
 <ol>
-<li>人の流れから都市の姿を描く, Takaaki Aokiキヤノングローバル戦略研究所 経済・社会との分野横断的研究会(2022/12/15), 2022/12/15,東京都千代田区丸の内1の4 日本工業倶楽部, Japan,oral</li>
-<li>GPS位置情報分析における非ポアソン性を考慮したグリットサイズ推定法, Takaaki AokiCSIS DAYS 2022 全国共同利用研究発表大会(2022/11/18-2022/11/19), 2022/11/18,Kashiwa, Chiba The University of Tokyo, Japan,oral</li>
-<li>Finding a potential of human flow for revealing urban spatial structures, Takaaki AokiRoles of Heterogeneity in Nonequilibrium Collective Dynamics 2022 (RHINO2022)(2022/09/16-2022/09/17), 2022/09/17,東京都文京区 The University of Tokyo, Japan,oral</li>
-<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki AokiMathematical geographical modelling for environmental humanities(2022/07/06-2022/07/07), 2022/07/07,京都府京都市左京区北白川追分町 Research Institute for Mathematical Sciences, Kyoto University, Japan,oral</li>
-<li>人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解, Takaaki Aoki香川大学・地域科学セミナー(2022/06/28), 2022/06/28,高松市幸町1-1 香川大学幸町北キャンパス, Japan,oral</li>
+<li>人の流れから都市の姿を描く, Takaaki Aoki, キヤノングローバル戦略研究所 経済・社会との分野横断的研究会(2022/12/15), 2022/12/15,東京都千代田区丸の内1の4 日本工業倶楽部, Japan,oral</li>
+<li>GPS位置情報分析における非ポアソン性を考慮したグリットサイズ推定法, Takaaki Aoki, CSIS DAYS 2022 全国共同利用研究発表大会(2022/11/18-2022/11/19), 2022/11/18,Kashiwa, Chiba The University of Tokyo, Japan,oral</li>
+<li>Finding a potential of human flow for revealing urban spatial structures, Takaaki Aoki, Roles of Heterogeneity in Nonequilibrium Collective Dynamics 2022 (RHINO2022)(2022/09/16-2022/09/17), 2022/09/17,東京都文京区 The University of Tokyo, Japan,oral</li>
+<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Mathematical geographical modelling for environmental humanities(2022/07/06-2022/07/07), 2022/07/07,京都府京都市左京区北白川追分町 Research Institute for Mathematical Sciences, Kyoto University, Japan,oral</li>
+<li>人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解, Takaaki Aoki, 香川大学・地域科学セミナー(2022/06/28), 2022/06/28,高松市幸町1-1 香川大学幸町北キャンパス, Japan,oral</li>
 </ol>
 
 
 #### 2021年度
 <ol>
-<li>Finding a potential of human flow for revealing urban spatial structures, Takaaki AokiEconomics Seminar, the Complex Systems Institute(2022/03/31), 2022/03/31,The complex systems institute, Ghent University online, Belgium,oral</li>
-<li>Finding a potential of human flow, Takaaki AokiJICA Knowledge Co-Creation Program of Inovative Asia 2021: Big data and Sustainable Delevepment Goals (SDGs)(2022/02/14), 2022/02/14,Hokkaido University online, Japan,oral</li>
-<li>人流データに基づく都市空間構造の可視化, 青木高明ネットワーク科学研究会2021(2021/12/11-2021/12/12), 2021/12/11,online, Japan,oral</li>
-<li>人流データに基づく都市空間構造の可視化: OD行列のHodge-小平分解, 青木高明，藤嶋翔太，藤原直哉CSIS DAYS 2021 全国共同利用研究発表大会(2021/11/19-2021/11/20), 2021/11/20,online, Japan,oral</li>
-<li>Urban spatial structures from human flow by Hodge-Kodaira decomposition, 藤嶋翔太，青木高明，藤原直哉第35回 応用地域学会 (ARSC) 研究発表大会(2021/11/20-2021/11/21), 2021/11/20,online, Japan,oral</li>
-<li>ホッジ・小平分解を用いた,人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima日本物理学会 2021年秋季大会(2021/09/20-2021/09/23), 2021/09/21,online, Japan,oral</li>
-<li>人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima第13回 数理モデリング研究会: Workshop on multitrack event-trains in neural, social, seismological, and financial data(2021/08/28-2021/08/30), 2021/08/30,online, Japan,oral</li>
+<li>Finding a potential of human flow for revealing urban spatial structures, Takaaki Aoki, Economics Seminar, the Complex Systems Institute(2022/03/31), 2022/03/31,The complex systems institute, Ghent University online, Belgium,oral</li>
+<li>Finding a potential of human flow, Takaaki Aoki, JICA Knowledge Co-Creation Program of Inovative Asia 2021: Big data and Sustainable Delevepment Goals (SDGs)(2022/02/14), 2022/02/14,Hokkaido University online, Japan,oral</li>
+<li>人流データに基づく都市空間構造の可視化, 青木高明, ネットワーク科学研究会2021(2021/12/11-2021/12/12), 2021/12/11,online, Japan,oral</li>
+<li>人流データに基づく都市空間構造の可視化: OD行列のHodge-小平分解, 青木高明，藤嶋翔太，藤原直哉, CSIS DAYS 2021 全国共同利用研究発表大会(2021/11/19-2021/11/20), 2021/11/20,online, Japan,oral</li>
+<li>Urban spatial structures from human flow by Hodge-Kodaira decomposition, 藤嶋翔太，青木高明，藤原直哉, 第35回 応用地域学会 (ARSC) 研究発表大会(2021/11/20-2021/11/21), 2021/11/20,online, Japan,oral</li>
+<li>ホッジ・小平分解を用いた,人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 日本物理学会 2021年秋季大会(2021/09/20-2021/09/23), 2021/09/21,online, Japan,oral</li>
+<li>人流データの背後にあるポテンシャル場の決定, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 第13回 数理モデリング研究会: Workshop on multitrack event-trains in neural, social, seismological, and financial data(2021/08/28-2021/08/30), 2021/08/30,online, Japan,oral</li>
 </ol>
 
 
 #### 2020年度
 <ol>
-<li>グラフベースの自由記述式アンケートシステムを用いた新型コロナウイルスについての心情調査研究, 川本達郎, 青木高明, 上田路子日本物理学会 第76回年次大会（2021年）(2021/03/12-2021/03/15), 2021/03/13,online, Japan,oral</li>
-<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima第 34 回応用地域学会 （ARSC）研究発表大会(2020/11/28-2020/11/29), 2020/11/28,online, Japan,oral</li>
-<li>コロナ禍における人々の声を集める: 投票クラスタリングによる自由記述アンケートの定期実施から, Takaaki AokiWorkshop on multitrack event-trains in neural, social, seismological, and financial data(2020/09/12-2020/09/13), 2020/09/12,online, Japan,oral</li>
+<li>グラフベースの自由記述式アンケートシステムを用いた新型コロナウイルスについての心情調査研究, 川本達郎, 青木高明, 上田路子, 日本物理学会 第76回年次大会（2021年）(2021/03/12-2021/03/15), 2021/03/13,online, Japan,oral</li>
+<li>Potential field of human flow extracted by Hodge-Kodaira decomposition, Takaaki Aoki, Naoya Fujiwara, Shota Fujishima, 第 34 回応用地域学会 （ARSC）研究発表大会(2020/11/28-2020/11/29), 2020/11/28,online, Japan,oral</li>
+<li>コロナ禍における人々の声を集める: 投票クラスタリングによる自由記述アンケートの定期実施から, Takaaki Aoki, Workshop on multitrack event-trains in neural, social, seismological, and financial data(2020/09/12-2020/09/13), 2020/09/12,online, Japan,oral</li>
 </ol>
 
 
 #### 2019年度
 <ol>
-<li>Population distribution as pattern formation on landscapes, Takaaki AokiDynamic seminar in College of Engineering, Mathematics and Physical Sciences(2019/12/10), 2019/12/10,Harrison Building, Streatham Campus, N Park Rd, Exeter EX4 4QF, United Kingdom University of Exeter, United Kingdom,oral</li>
-<li>Population distribution as pattern formation on landscapes: From ancient roman cites to modern Italy, Takaaki AokiComplexity Science and Past Complex Systems(2019/11/18), 2019/11/18,St Luke's Chapel, Radcliffe Observatory Quarter, Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
-<li>Population distribution as pattern formation on landscapes, Takaaki AokiNetworks seminar in mathematical institute(2019/11/05), 2019/11/05,Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
-<li>Graph-based classification of opinions in free-response surveys, Takaaki AokiSeminar in centre for business network analysis(2019/05/30), 2019/05/30,Hamilton House, 15 Park Vista, Greenwich Peninsula, London SE10 9LZ, UK University of Greenwich, United Kingdom,oral</li>
-<li>Graph-based classification of opinions in free-response surveys, Takaaki AokiNetworks seminar in mathematical institute(2019/05/21), 2019/05/21,Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
+<li>Population distribution as pattern formation on landscapes, Takaaki Aoki, Dynamic seminar in College of Engineering, Mathematics and Physical Sciences(2019/12/10), 2019/12/10,Harrison Building, Streatham Campus, N Park Rd, Exeter EX4 4QF, United Kingdom University of Exeter, United Kingdom,oral</li>
+<li>Population distribution as pattern formation on landscapes: From ancient roman cites to modern Italy, Takaaki Aoki, Complexity Science and Past Complex Systems(2019/11/18), 2019/11/18,St Luke's Chapel, Radcliffe Observatory Quarter, Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
+<li>Population distribution as pattern formation on landscapes, Takaaki Aoki, Networks seminar in mathematical institute(2019/11/05), 2019/11/05,Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
+<li>Graph-based classification of opinions in free-response surveys, Takaaki Aoki, Seminar in centre for business network analysis(2019/05/30), 2019/05/30,Hamilton House, 15 Park Vista, Greenwich Peninsula, London SE10 9LZ, UK University of Greenwich, United Kingdom,oral</li>
+<li>Graph-based classification of opinions in free-response surveys, Takaaki Aoki, Networks seminar in mathematical institute(2019/05/21), 2019/05/21,Woodstock Rd, Oxford OX2 6GG, United Kingdom University of Oxford, United Kingdom,oral</li>
 </ol>
 
 
 #### 2018年度
 <ol>
-<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki AokiThe connected past(2018/12/06-2018/12/07), 2018/12/06,〒OX1 2JD Oxford University of oxford, United Kingdom,oral</li>
-<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki AokiNetwork Science Workshop in Kobe(2018/10/25-2018/10/26), 2018/10/25,Rokkodai 1st Campus Kobe, 2-1 Rokkodai, Nada, 657-8501 Frontier Hall, Kobe University, Japan,oral</li>
-<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki京都大学応用数学セミナー（KUAMS）(2018/10/23), 2018/10/23,〒606-8502 京都市左京区北白川追分町 京都大学理学研究科数学教室, Japan,oral</li>
-<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki日本物理学会2018年度秋季大会(2018/09/09-2018/09/12), 2018/09/11,〒610-0394　京田辺市多々羅都谷1-3 同志社大学, Japan,oral</li>
-<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki北海道大学電子科学研究所附属社会創造数学研究センター公開シンポジウム〜数理連携（知のオープンファシリティ）の現状と未来〜(2018/08/24-2018/08/25), 2018/08/24,〒060-0808 北海道札幌市北区北８条西５丁目 北海道大学 フロンティア応用科学研究棟 2F 鈴木章ホール, Japan,oral</li>
-<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki AokiWorkshop on dynamical processes on networks(2018/07/18), 2018/07/18,新宿サンエービル1F 1-22-2, Nishi-shinjuku Shinjuku-Ku, Tokyo, 160-0023 Japan Tokyo satellite office of Kagoshima Unviersity, Japan,oral</li>
-<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki AokiWorkshop on multitrack event-trains in neural, social, seismological, and financial data(2018/07/06-2018/07/08), 2018/07/06,1052-471, Okan Minamihara Nagakura, Karuizawa, Karuizawa-cho, Kita Saku-gun, Nagano 389-0111, JAPAN International Seminar House for Advanced Studies, National Institute of Informatics (NII), Japan,oral</li>
-<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki AokiNAXYS Seminar(2018/06/19), 2018/06/19,Rue de Bruxelles 61, 5000 Namur, Beligium Namur university, Belgium,oral</li>
-<li>グラフベースの自由記述式アンケートの統計分類法, Takaaki Aoki第14回京都算楽会(2018/05/12-2018/05/13), 2018/05/12,静岡県浜松市西区雄踏町山崎4396-1 THE HAMANAKO, Japan,oral</li>
+<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, The connected past(2018/12/06-2018/12/07), 2018/12/06,〒OX1 2JD Oxford University of oxford, United Kingdom,oral</li>
+<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, Network Science Workshop in Kobe(2018/10/25-2018/10/26), 2018/10/25,Rokkodai 1st Campus Kobe, 2-1 Rokkodai, Nada, 657-8501 Frontier Hall, Kobe University, Japan,oral</li>
+<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki, 京都大学応用数学セミナー（KUAMS）(2018/10/23), 2018/10/23,〒606-8502 京都市左京区北白川追分町 京都大学理学研究科数学教室, Japan,oral</li>
+<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki, 日本物理学会2018年度秋季大会(2018/09/09-2018/09/12), 2018/09/11,〒610-0394　京田辺市多々羅都谷1-3 同志社大学, Japan,oral</li>
+<li>実地形空間における都市・道路網のパターン形成, Takaaki Aoki, 北海道大学電子科学研究所附属社会創造数学研究センター公開シンポジウム〜数理連携（知のオープンファシリティ）の現状と未来〜(2018/08/24-2018/08/25), 2018/08/24,〒060-0808 北海道札幌市北区北８条西５丁目 北海道大学 フロンティア応用科学研究棟 2F 鈴木章ホール, Japan,oral</li>
+<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, Workshop on dynamical processes on networks(2018/07/18), 2018/07/18,新宿サンエービル1F 1-22-2, Nishi-shinjuku Shinjuku-Ku, Tokyo, 160-0023 Japan Tokyo satellite office of Kagoshima Unviersity, Japan,oral</li>
+<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, Workshop on multitrack event-trains in neural, social, seismological, and financial data(2018/07/06-2018/07/08), 2018/07/06,1052-471, Okan Minamihara Nagakura, Karuizawa, Karuizawa-cho, Kita Saku-gun, Nagano 389-0111, JAPAN International Seminar House for Advanced Studies, National Institute of Informatics (NII), Japan,oral</li>
+<li>Cities and roads as pattern formation of their co-evolving dynamics on real-world landscape, Takaaki Aoki, NAXYS Seminar(2018/06/19), 2018/06/19,Rue de Bruxelles 61, 5000 Namur, Beligium Namur university, Belgium,oral</li>
+<li>グラフベースの自由記述式アンケートの統計分類法, Takaaki Aoki, 第14回京都算楽会(2018/05/12-2018/05/13), 2018/05/12,静岡県浜松市西区雄踏町山崎4396-1 THE HAMANAKO, Japan,oral</li>
 </ol>
 
 
 #### 2017年度
 <ol>
-<li>実地形空間における都市・道路網のパターン形成, 青木高明, 中垣俊之, 藤原直哉ミニカンファレンス:ネットワーク科学と経済学の接点(2017/12/09), 2017/12/09,〒113-0033　東京都文京区本郷7-3-1 東京大学本郷キャンパス 小島ホール1階第2セミナー室, Japan,oral</li>
-<li>Cities and roads as pattern formation on landscape, 青木高明, 中垣俊之, 藤原直哉応用地域学会2017大会(2017/11/25-2017/11/26), 2017/11/25,〒113-0033　東京都文京区本郷7-3-1 東京大学本郷キャンパス, Japan,oral</li>
-<li>実地形空間における都市・道路網のパターン形成, 青木高明G空間EXPO CSISシンポジウム(2017/10/14), 2017/10/14,〒135-0064 東京都江東区青海２丁目３-６ 日本科学未来館, Japan,invited_oral</li>
-<li>ネットワークベースの自由記述式アンケート : 大学教育と職業選択に関する調査, 青木高明, 時岡晴美, 川本達郎日本物理学会秋季大会(2017/09/21-2017/09/24), 2017/09/22,岩手県盛岡市上田3丁目18−8 岩手大学, Japan,oral</li>
-<li>Cities and roads as pattern formation on landscape, Takaaki AokiInternational Workshop on Active Soft Matter and Ethology(2017/08/04), 2017/08/04,〒001-0020 札幌市北区北20条西10丁目 Seminar room 1-2, Research Institute for Electronic Science, Hokkaido University, Japan,oral</li>
-<li>近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析, Takaaki Aoki第２８回情報数理工学セミナー(2017/07/07), 2017/07/07,〒182-8585 東京都調布市調布ヶ丘 電気通信大学　西4号館1階101セミナー室, Japan,oral</li>
-<li>A math-geographical model of cities and road network, Takaaki AokiInternational School and Conference on Network Science (Netsci) 2017(2017/06/19-2017/06/23), 2017/06/22,Indianapolis  Indiana  46204 JW Marriott Indianapolis, United States,poster</li>
-<li>Teaching network science as a faculty of education in Japan, Takaaki AokiNetsciEd6 in International School and Conference on Network Science (Netsci) 2017(2017/06/19-2017/06/23), 2017/06/20,Indianapolis  Indiana  46204 JW Marriott Indianapolis, United States,oral</li>
-<li>動的ネットワーク構造の秩序形成, Takaaki Aoki第４回水戸数学・情報数理セミナー(2017/06/16), 2017/06/16,〒310-0056 茨城県水戸市文京2-1-1 茨城大学理学部数学・情報数理領域, Japan,oral</li>
-<li>数理地理モデリングによる都市と道路のパターン形成, Takaaki Aoki第13回京都算楽会(2017/05/13-2017/05/14), 2017/05/14,兵庫県神戸市北区有馬町1617-1 かんぽの宿 有馬 「会議室」, Japan,oral</li>
-<li>Cities and roads as pattern formation on landscape, Takaaki AokiThe Urban Economics Workshop(2017/04/14), 2017/04/14,東京都文京区本郷7-3-1 東京大学大学院経済学研究科, Japan,oral</li>
+<li>実地形空間における都市・道路網のパターン形成, 青木高明, 中垣俊之, 藤原直哉, ミニカンファレンス:ネットワーク科学と経済学の接点(2017/12/09), 2017/12/09,〒113-0033　東京都文京区本郷7-3-1 東京大学本郷キャンパス 小島ホール1階第2セミナー室, Japan,oral</li>
+<li>Cities and roads as pattern formation on landscape, 青木高明, 中垣俊之, 藤原直哉, 応用地域学会2017大会(2017/11/25-2017/11/26), 2017/11/25,〒113-0033　東京都文京区本郷7-3-1 東京大学本郷キャンパス, Japan,oral</li>
+<li>実地形空間における都市・道路網のパターン形成, 青木高明, G空間EXPO CSISシンポジウム(2017/10/14), 2017/10/14,〒135-0064 東京都江東区青海２丁目３-６ 日本科学未来館, Japan,invited_oral</li>
+<li>ネットワークベースの自由記述式アンケート : 大学教育と職業選択に関する調査, 青木高明, 時岡晴美, 川本達郎, 日本物理学会秋季大会(2017/09/21-2017/09/24), 2017/09/22,岩手県盛岡市上田3丁目18−8 岩手大学, Japan,oral</li>
+<li>Cities and roads as pattern formation on landscape, Takaaki Aoki, International Workshop on Active Soft Matter and Ethology(2017/08/04), 2017/08/04,〒001-0020 札幌市北区北20条西10丁目 Seminar room 1-2, Research Institute for Electronic Science, Hokkaido University, Japan,oral</li>
+<li>近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析, Takaaki Aoki, 第２８回情報数理工学セミナー(2017/07/07), 2017/07/07,〒182-8585 東京都調布市調布ヶ丘 電気通信大学　西4号館1階101セミナー室, Japan,oral</li>
+<li>A math-geographical model of cities and road network, Takaaki Aoki, International School and Conference on Network Science (Netsci) 2017(2017/06/19-2017/06/23), 2017/06/22,Indianapolis  Indiana  46204 JW Marriott Indianapolis, United States,poster</li>
+<li>Teaching network science as a faculty of education in Japan, Takaaki Aoki, NetsciEd6 in International School and Conference on Network Science (Netsci) 2017(2017/06/19-2017/06/23), 2017/06/20,Indianapolis  Indiana  46204 JW Marriott Indianapolis, United States,oral</li>
+<li>動的ネットワーク構造の秩序形成, Takaaki Aoki, 第４回水戸数学・情報数理セミナー(2017/06/16), 2017/06/16,〒310-0056 茨城県水戸市文京2-1-1 茨城大学理学部数学・情報数理領域, Japan,oral</li>
+<li>数理地理モデリングによる都市と道路のパターン形成, Takaaki Aoki, 第13回京都算楽会(2017/05/13-2017/05/14), 2017/05/14,兵庫県神戸市北区有馬町1617-1 かんぽの宿 有馬 「会議室」, Japan,oral</li>
+<li>Cities and roads as pattern formation on landscape, Takaaki Aoki, The Urban Economics Workshop(2017/04/14), 2017/04/14,東京都文京区本郷7-3-1 東京大学大学院経済学研究科, Japan,oral</li>
 </ol>
 
 
 #### 2016年度
 <ol>
-<li>数理地理モデリングによる都市と道の形成メカニズムの解明, Takaaki Aoki日本物理学会　第72回年次大会(2017/03/17-2017/03/20), 2017/03/18,大阪府豊中市待兼山町 大阪大学　豊中キャンパス, Japan,oral</li>
-<li>シナプス可塑性に学ぶネットワーク回路構造の自己組織化, Takaaki Aokiシンポジウム「次世代ニューロモルフィックハードウェアにおける機能性酸化物の役割」 in 第64回応用物理学会春季学術講演会(2017/03/16), 2017/03/16,神奈川県横浜市 パシフィコ横浜, Japan,invited_oral</li>
-<li>A math-geographical model of cities and road network, Takaaki AokiInterdisciplinary applications of nonlinear science(2016/11/03-2016/11/06), 2016/11/05,Korimoto 1-21-24, Kagoshima 890-8580 Kagoshima University, Japan,invited_oral</li>
-<li>Collective dynamics of interacting individuals in adaptive temporal network, Takaaki Aoki集団ダイナミクスに現れる時空間パターンの数理(2016/10/12-2016/10/14), 2016/10/12,京都市左京区北白川追分町 京都大学数理解析研究所, Japan,oral</li>
-<li>Input-output relationshipin social communication datasets characterized by neuronal spike train analysis, Takaaki Aoki, Taro Takaguchi, Ryota Kobayashi, and Renaud Lambiotte2016 Conference on Complex Systems in Amsterdam(2016/09/19-2016/09/22), 2016/09/19,Damrak 243, 1012 BH Amsterdam Beurs Van Berlage, Netherlands,oral</li>
-<li>Burst behavior and scale-free network emerging in adaptive temporal Networks, Takaaki AokiThe 2016 (26th) annual meeting of the Japanese Society for Mathematical Biology(2016/09/07-2016/09/09), 2016/09/07,福岡市西区元岡744 Shiiki Hall, Ito campus, Kyushu University, Japan,oral</li>
-<li>Input-output relationship in social communication datasets characterized by neuronal spike train analysis, Takaaki AokiThe 1st Workshop on Self-Organization and Robustness of Evolving Many-Body Systems(2016/08/27-2016/08/28), 2016/08/27,茨城県神栖市波崎9231 Hotel Umehara, Japan,oral</li>
-<li>都市と道路の共発展モデルからみる人口の地理的分布, Takaaki Aoki第62回歴史人口学セミナー(2016/07/23), 2016/07/23,東京都新宿区西新宿6-5-1 麗澤大学東京研究センター, Japan,oral</li>
-<li>Input-output relationship in social communication datasets characterized by neuronal spike train analysis, Takaaki AokiWorkshop on Theory and Applications of multitrack event-trains in neural, social, seismological and financial data(2016/07/17-2016/07/18), 2016/07/17,長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471 Internatinal Seminar House for Advanced Studies, National Institute of Informatics (NII), Japan,oral</li>
-<li>近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析 - 天草地方を事例に-, Takaaki Aoki2016年度 RIMS共同研究「マクロ経済動学の非線形数理」(2016/07/06-2016/07/08), 2016/07/07,京都市左京区北白川追分町 京都大学数理解析研究所, Japan,oral</li>
-<li>Collective dynamics of interacting individuals in adaptive temporal network, Takaaki Aoki"Network science research in Asia: fundamentals and applications" in Netsci 2016(2016/05/30-2016/06/03), 2016/05/30,70 Baumoe-ro 12-gil, Yangjae 2(i)-dong, Seocho-gu, Seoul The K Hotel Seoul, Korea, Democratic People's Republic of,invited_oral</li>
+<li>数理地理モデリングによる都市と道の形成メカニズムの解明, Takaaki Aoki, 日本物理学会　第72回年次大会(2017/03/17-2017/03/20), 2017/03/18,大阪府豊中市待兼山町 大阪大学　豊中キャンパス, Japan,oral</li>
+<li>シナプス可塑性に学ぶネットワーク回路構造の自己組織化, Takaaki Aoki, シンポジウム「次世代ニューロモルフィックハードウェアにおける機能性酸化物の役割」 in 第64回応用物理学会春季学術講演会(2017/03/16), 2017/03/16,神奈川県横浜市 パシフィコ横浜, Japan,invited_oral</li>
+<li>A math-geographical model of cities and road network, Takaaki Aoki, Interdisciplinary applications of nonlinear science(2016/11/03-2016/11/06), 2016/11/05,Korimoto 1-21-24, Kagoshima 890-8580 Kagoshima University, Japan,invited_oral</li>
+<li>Collective dynamics of interacting individuals in adaptive temporal network, Takaaki Aoki, 集団ダイナミクスに現れる時空間パターンの数理(2016/10/12-2016/10/14), 2016/10/12,京都市左京区北白川追分町 京都大学数理解析研究所, Japan,oral</li>
+<li>Input-output relationshipin social communication datasets characterized by neuronal spike train analysis, Takaaki Aoki, Taro Takaguchi, Ryota Kobayashi, and Renaud Lambiotte, 2016 Conference on Complex Systems in Amsterdam(2016/09/19-2016/09/22), 2016/09/19,Damrak 243, 1012 BH Amsterdam Beurs Van Berlage, Netherlands,oral</li>
+<li>Burst behavior and scale-free network emerging in adaptive temporal Networks, Takaaki Aoki, The 2016 (26th) annual meeting of the Japanese Society for Mathematical Biology(2016/09/07-2016/09/09), 2016/09/07,福岡市西区元岡744 Shiiki Hall, Ito campus, Kyushu University, Japan,oral</li>
+<li>Input-output relationship in social communication datasets characterized by neuronal spike train analysis, Takaaki Aoki, The 1st Workshop on Self-Organization and Robustness of Evolving Many-Body Systems(2016/08/27-2016/08/28), 2016/08/27,茨城県神栖市波崎9231 Hotel Umehara, Japan,oral</li>
+<li>都市と道路の共発展モデルからみる人口の地理的分布, Takaaki Aoki, 第62回歴史人口学セミナー(2016/07/23), 2016/07/23,東京都新宿区西新宿6-5-1 麗澤大学東京研究センター, Japan,oral</li>
+<li>Input-output relationship in social communication datasets characterized by neuronal spike train analysis, Takaaki Aoki, Workshop on Theory and Applications of multitrack event-trains in neural, social, seismological and financial data(2016/07/17-2016/07/18), 2016/07/17,長野県北佐久郡軽井沢町大字軽井沢字長倉往還南原1052-471 Internatinal Seminar House for Advanced Studies, National Institute of Informatics (NII), Japan,oral</li>
+<li>近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析 - 天草地方を事例に-, Takaaki Aoki, 2016年度 RIMS共同研究「マクロ経済動学の非線形数理」(2016/07/06-2016/07/08), 2016/07/07,京都市左京区北白川追分町 京都大学数理解析研究所, Japan,oral</li>
+<li>Collective dynamics of interacting individuals in adaptive temporal network, Takaaki Aoki, "Network science research in Asia: fundamentals and applications" in Netsci 2016(2016/05/30-2016/06/03), 2016/05/30,70 Baumoe-ro 12-gil, Yangjae 2(i)-dong, Seocho-gu, Seoul The K Hotel Seoul, Korea, Democratic People's Republic of,invited_oral</li>
 </ol>
 
 
