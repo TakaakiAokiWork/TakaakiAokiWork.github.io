@@ -18,3 +18,9 @@ publications:
 	python scripts/parse_talk.py Talk.json  > tmp/Publications.talk
 	cat ../docs/Publications.head tmp/Publications.preprint tmp/Publications.articles tmp/Publications.jparticles Publications.book tmp/Publications.review tmp/Publications.proc tmp/Publications.grant tmp/Publications.talk Publications_talk_before_2015.htm > ../docs/Publications.md
 
+
+make_talk_csv_for_researchmap_upload:
+	python scripts/conv_json_to_csv_for_researchmap_talk.py Talk.json Talk-for-upload.csv
+
+convert_talk:
+	python scripts/renamefield_talk_for_researchmap.py Talk.json > Talk_resmap.json
