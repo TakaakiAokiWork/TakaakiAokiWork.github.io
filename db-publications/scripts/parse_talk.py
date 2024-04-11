@@ -21,7 +21,11 @@ for year in sorted(grp.groups, reverse=True):
     print("#### %d年度" % year)
     print("<ol>")
     for i,d in grp.get_group(year).sort_values("発表年月日", ascending=False).iterrows():
-        s = "<li>{タイトル(日本語)}, {講演者(日本語)}, {会議名(日本語)}({開催年月日(From)}-{開催年月日(To)}), {発表年月日}".format(**d)
+        s = "<li>{タイトル(日本語)}, {講演者(日本語)}".format(**d)
+        if d["開催年月日(To)"] != "":
+            s += "{会議名(日本語)}({開催年月日(From)}-{開催年月日(To)}), {発表年月日}".format(**d)
+        else:
+            s += "{会議名(日本語)}({開催年月日(From)}), {発表年月日}".format(**d)
         if len(d["開催地(日本語)"]) > 0:
             d["country"] = pycountry.countries.get(alpha_3=d['国・地域']).name
             s += ",{開催地(日本語)}, {country}".format(**d)
