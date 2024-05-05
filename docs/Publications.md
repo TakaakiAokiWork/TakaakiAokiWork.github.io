@@ -59,6 +59,7 @@ Table of contents
 {::nomarkdown}
 <div id='publication'>
 <ol>
+<li><strong>教育データサイエンスの視点を取り入れた実践的 STEMモデルの開発　-小学校第五学年「振り子の規則性」に焦点化して-</strong>, 山岡 武邦, 岳野 公人, 大野 裕己 &amp; <span id='me'>青木 高明</span>, <em>滋賀大学教育実践研究論集</em>, 15--22 (2024).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050581157741579136> CiNii database</a>
 <li><strong>対面学生にも遠隔学生にも同等に演示実験を伝達するハイブリッド型授業の新たな取組—「文系のための物理学」における実践記録—</strong>, 高橋 尚志, 笠 潤平 &amp; <span id='me'>青木 高明</span>, <em>香川大学教育研究</em>, 159-165 (2022).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050291768726551040> CiNii database</a>
 <li><strong>学生の修学に関する相談窓口の統合と移動に関するアンケート調査—教育学部の学生を対象として—</strong>, 大久保 智生, <span id='me'>青木 高明</span> &amp; 岡田 涼, <em>香川大学教育研究</em>, 99-107 (2019).<br>Link to <a href=https://cir.nii.ac.jp/crid/1050850722278023296> CiNii database</a>
 <li><strong>Adaptive networkの共発展ダイナミクスの母関数法解析 (集団ダイナミクスに現れる時空間パターンの数理)</strong>, <span id='me'>青木 高明</span>, <em>数理解析研究所講究録</em>, 7--14 (2018).<br><a href=http://hdl.handle.net/2433/241879><button>Fulltext (free)</button></a>
