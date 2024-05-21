@@ -19,6 +19,7 @@ Table of contents
 {::nomarkdown}
 <div id='publication'>
 <ol>
+<li><strong>Learning the liveability of cities from migrants: Combinatiorial-Hodge-theory approach</strong>, <span id='me'>Takaaki Aoki</span>, Kohei Nagamachi &amp; Tetsuya Shimane, <a href=https://arxiv.org/abs/2405.11166>arXiv:2405.11166 [physics.soc-ph]</a>
 </ol>
 </div>
 {:/nomarkdown}
