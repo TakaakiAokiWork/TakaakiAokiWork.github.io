@@ -23,3 +23,4 @@ Our new paper with Naoya Fujiwara, Mark Fricker and Toshiyuki Nakagaki, "A model
 # Media
 - 朝日新聞デジタル on 2022/7/14 <br> [道はローマに通ず　粘菌の「知性」、イタリアの都市ほぼ再現](https://www.asahi.com/articles/ASQ7F62K8Q76ULBH00M.html)
 - 朝日新聞 on 2022/7/16 <br> イタリアの都市発展 粘菌の「賢さ」で検証 香川大・北大などの研究チームが論文
+- 中日新聞 on 2024/6/7 <br> データサイエンス×都市形成　滋賀大で研究紹介のパネル展
