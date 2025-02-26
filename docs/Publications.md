@@ -175,6 +175,10 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2024年度
 <ol>
+<li>Potential landscape of human flow in cities, Takaaki Aoki, Asia Pacific Seminar on Applied Topology and Geometry(2025/02/21), 2025/02/21,online, Japan,oral</li>
+<li>企業間取引ネットワーク上の資金流動情報を用いたサプライチェーン構造の検出, 中谷太洋, 青木高明, 第4回計算社会科学会大会(2025/02/16-2025/02/18), 2025/02/17,筑波大学 東京キャンパス, Japan,oral</li>
+<li>モデルありきの世界とデータありきの世界, 青木高明, ワークショップ: データアーカイブやユースケースの多様化と，その中長期的な課題(2024/12/13-2024/12/14), 2024/12/14,神戸大学, Japan,oral</li>
+<li>人の流れから都市の姿を描く, 青木高明, 第30回交通流と自己駆動粒子系のシンポジウム(2024/12/06), 2024/12/06,online, Japan,invited_oral</li>
 <li>ポテンシャルによる企業間取引ネットワークにおける階層構造の検出, 中谷太洋, 青木高明, 第38回応用地域学会研究発表大会(2024/11/30-2024/12/01), 2024/11/30,九州産業大学, Japan,oral</li>
 <li>引っ越しデータから見る都市の魅力度評価, Takaaki Aoki, 第17回京都算楽会(2024/11/09-2024/11/10), 2024/11/10,彦根キャッスル 会議室, Japan,oral</li>
 </ol>
