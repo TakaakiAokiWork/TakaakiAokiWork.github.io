@@ -173,6 +173,13 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 
 
 ## Talks
+#### 2024年度
+<ol>
+<li>ポテンシャルによる企業間取引ネットワークにおける階層構造の検出, 中谷太洋, 青木高明, 第38回応用地域学会研究発表大会(2024/11/30-2024/12/01), 2024/11/30,九州産業大学, Japan,oral</li>
+<li>引っ越しデータから見る都市の魅力度評価, Takaaki Aoki, 第17回京都算楽会(2024/11/09-2024/11/10), 2024/11/10,彦根キャッスル 会議室, Japan,oral</li>
+</ol>
+
+
 #### 2023年度
 <ol>
 <li>移住者を引き付ける魅力とは？移住者流動のポテンシャル分析, Takaaki Aoki, Kohei Nagamachi, and Tetsuya Shimane, 日本物理学会 2024年春季大会(2024/03/18-2024/03/21), 2024/03/21,online, Japan,oral</li>
