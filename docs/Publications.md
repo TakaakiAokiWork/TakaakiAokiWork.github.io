@@ -175,6 +175,7 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2024年度
 <ol>
+<li>Exploring way for sustaining the tourism industry : Text analysis of interview data from Long-Established companies, 中谷太洋, 辻開斗, 渡邉沙也, 大里隆也, 南條浩輝, 青木高明, 第29回 進化経済学会 年次大会(2025/03/22-2025/03/23), 2025/03/22,関西大学 千里山キャンパス, Japan,oral</li>
 <li>粘菌ネットワークを用いた半導体工場内物流の最適化, 川本圭佑, 青木高明, 学術変革領域研究(A) ジオラマ行動力学第７回全体会議(2025/03/20-2025/03/21), 2025/03/20,東北大学片平キャンパス, Japan,poster</li>
 <li>Potential landscape of human flow in cities, Takaaki Aoki, Asia Pacific Seminar on Applied Topology and Geometry(2025/02/21), 2025/02/21,online, Japan,oral</li>
 <li>企業間取引ネットワーク上の資金流動情報を用いたサプライチェーン構造の検出, 中谷太洋, 青木高明, 第4回計算社会科学会大会(2025/02/16-2025/02/18), 2025/02/17,筑波大学 東京キャンパス, Japan,oral</li>
