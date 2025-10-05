@@ -1150,5 +1150,27 @@
     "開催年月日(To)": "2025-03-23",
     "国・地域": "JPN",
     "会議種別": "oral_presentation"
+  },
+  {
+        "タイトル(英語)": "Hierarchy of supply chain with scalar potential",
+    "講演者(英語)": "Taiyo Nakatani and Takaaki Aoki",
+    "会議名(英語)": "NetSci  2025 Satellite on Firm-Level Supply Chain Networks (FLSCN)",
+    "開催地(英語)": "Maastricht, the Netherlands",
+    "発表年月日": "2025-06-03",
+    "開催年月日(From)": "2025-06-03",
+    "開催年月日(To)": "2025-06-03",
+    "国・地域": "NLD",
+    "会議種別": "oral_presentation"
+  },
+  {
+        "タイトル(英語)": "Learning about the liveability of cities from young migrants using the combinatorial Hodge theory approach.",
+    "講演者(英語)": "Takaaki Aoki",
+    "会議名(英語)": "Oxford networks seminar",
+    "開催地(英語)": "The Mathematical Institute, the University of Oxford",
+    "発表年月日": "2025-06-10",
+    "開催年月日(From)": "2025-06-10",
+    "開催年月日(To)": "2025-06-10",
+    "国・地域": "GBR",
+    "会議種別": "oral_presentation"
   }
 ]

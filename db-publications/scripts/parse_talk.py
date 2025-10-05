@@ -16,24 +16,69 @@ df['Year'] = df['発表年月日'].dt.year
 df.loc[df['発表年月日'].dt.month < 4, 'Year'] = df['発表年月日'].dt.year - 1
 df['発表年月日'] = df['発表年月日'].dt.strftime("%Y/%m/%d")
 
+
+def is_exists_key(key, entry):
+    value = entry.get(key, "")
+    if pd.isna(value):
+        return False
+    if len(value) == 0:
+        return False
+    else:
+        return True
+
+
+def parse(entry):
+    d = dict()
+    #print(entry, file=sys.stderr)
+
+    if is_exists_key("タイトル(日本語)",entry):
+        d["title"]  = entry["タイトル(日本語)"]
+    else:
+        d["title"]  = entry["タイトル(英語)"]
+
+    if is_exists_key("講演者(日本語)", entry):
+        d["author"]  = entry["講演者(日本語)"]
+    else:
+        d["author"]  = entry["講演者(英語)"]
+
+    if is_exists_key("講演者(日本語)", entry):
+        d["author"]  = entry["講演者(日本語)"]
+    else:
+        d["author"]  = entry["講演者(英語)"]
+
+    if is_exists_key("会議名(日本語)" , entry):
+        d["conference"]  = entry["会議名(日本語)"]
+    else:
+        d["conference"]  = entry["会議名(英語)"]
+
+    if is_exists_key("開催地(日本語)" , entry):
+        d["place"]  = entry["開催地(日本語)"]
+    else:
+        d["place"]  = entry["開催地(英語)"]
+
+    d["date_from"] = dt.strptime(entry['開催年月日(From)'], '%Y-%m-%d')
+    d["date_talk"] = entry['発表年月日']
+    if entry["開催年月日(To)"] != "":
+        d["date_to"] = dt.strptime(entry['開催年月日(To)'], '%Y-%m-%d')
+    else:
+        d["date_to"] = d["date_from"]
+
+    d["talk_type"] = entry["会議種別"].replace("_presentation","")
+    d["country"] = pycountry.countries.get(alpha_3=entry['国・地域']).name
+    return(d)
+
+
+
+
 grp = df.groupby("Year")
 for year in sorted(grp.groups, reverse=True):
     print("#### %d年度" % year)
     print("<ol>")
-    for i,d in grp.get_group(year).sort_values("発表年月日", ascending=False).iterrows():
-        s = "<li>{タイトル(日本語)}, {講演者(日本語)}, ".format(**d)
-        if d["開催年月日(To)"] != "":
-            d['開催年月日(From)'] = dt.strptime(d['開催年月日(From)'], '%Y-%m-%d').strftime("%Y/%m/%d")
-            d['開催年月日(To)'] = dt.strptime(d['開催年月日(To)'], '%Y-%m-%d').strftime("%Y/%m/%d")
-            s += "{会議名(日本語)}({開催年月日(From)}-{開催年月日(To)}), {発表年月日}".format(**d)
-        else:
-            d['開催年月日(From)'] = dt.strptime(d['開催年月日(From)'], '%Y-%m-%d').strftime("%Y/%m/%d")
-            s += "{会議名(日本語)}({開催年月日(From)}), {発表年月日}".format(**d)
-        if len(d["開催地(日本語)"]) > 0:
-            d["country"] = pycountry.countries.get(alpha_3=d['国・地域']).name
-            s += ",{開催地(日本語)}, {country}".format(**d)
-        talk_type = d["会議種別"].replace("_presentation","")
-        s += "," +  talk_type + "</li>"
+    for i,entry in grp.get_group(year).sort_values("発表年月日", ascending=False).iterrows():
+        d = parse(entry)
+        d["date_from"] = d["date_from"].strftime("%Y/%m/%d")
+        d["date_to"] = d["date_to"].strftime("%Y/%m/%d")
+        s = "<li>{title}, {author}, {conference}({date_from}-{date_to}), {date_talk}, {place}, {country}, {talk_type} </li>".format(**d)
         print(s)
     print("</ol>\n\n")
 
