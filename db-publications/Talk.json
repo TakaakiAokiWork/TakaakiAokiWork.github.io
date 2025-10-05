@@ -12,7 +12,7 @@
     "開催年月日(From)": "2016-05-30",
     "開催年月日(To)": "2016-06-03",
     "国・地域": "PRK",
-    "会議種別": "invited_oral_presentation"
+    "発表種別": "invited_oral_presentation"
   },
   {
     "タイトル(日本語)": "近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析 - 天草地方を事例に-",
@@ -27,7 +27,7 @@
     "開催年月日(From)": "2016-07-06",
     "開催年月日(To)": "2016-07-08",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Input-output relationship in social communication datasets characterized by neuronal spike train analysis",
@@ -42,7 +42,7 @@
     "開催年月日(From)": "2016-07-17",
     "開催年月日(To)": "2016-07-18",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "都市と道路の共発展モデルからみる人口の地理的分布",
@@ -57,7 +57,7 @@
     "開催年月日(From)": "2016-07-23",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Input-output relationship in social communication datasets characterized by neuronal spike train analysis",
@@ -72,7 +72,7 @@
     "開催年月日(From)": "2016-08-27",
     "開催年月日(To)": "2016-08-28",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Burst behavior and scale-free network emerging in adaptive temporal Networks",
@@ -87,7 +87,7 @@
     "開催年月日(From)": "2016-09-07",
     "開催年月日(To)": "2016-09-09",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Input-output relationshipin social communication datasets characterized by neuronal spike train analysis",
@@ -102,7 +102,7 @@
     "開催年月日(From)": "2016-09-19",
     "開催年月日(To)": "2016-09-22",
     "国・地域": "NLD",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Collective dynamics of interacting individuals in adaptive temporal network",
@@ -117,7 +117,7 @@
     "開催年月日(From)": "2016-10-12",
     "開催年月日(To)": "2016-10-14",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "A math-geographical model of cities and road network",
@@ -132,7 +132,7 @@
     "開催年月日(From)": "2016-11-03",
     "開催年月日(To)": "2016-11-06",
     "国・地域": "JPN",
-    "会議種別": "invited_oral_presentation"
+    "発表種別": "invited_oral_presentation"
   },
   {
     "タイトル(日本語)": "シナプス可塑性に学ぶネットワーク回路構造の自己組織化",
@@ -147,7 +147,7 @@
     "開催年月日(From)": "2017-03-16",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "invited_oral_presentation"
+    "発表種別": "invited_oral_presentation"
   },
   {
     "タイトル(日本語)": "数理地理モデリングによる都市と道の形成メカニズムの解明",
@@ -162,7 +162,7 @@
     "開催年月日(From)": "2017-03-17",
     "開催年月日(To)": "2017-03-20",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Cities and roads as pattern formation on landscape",
@@ -177,7 +177,7 @@
     "開催年月日(From)": "2017-04-14",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "理化学研究所 大規模並列数値計算技術研究チーム",
@@ -194,7 +194,7 @@
     "開催年月日(From)": "2017-05-13",
     "開催年月日(To)": "2017-05-14",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "茨城大学理学部数学・情報数理領域",
@@ -212,7 +212,7 @@
     "開催年月日(From)": "2017-06-16",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "Indiana University Bloomington",
@@ -230,7 +230,7 @@
     "開催年月日(From)": "2017-06-19",
     "開催年月日(To)": "2017-06-23",
     "国・地域": "USA",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "Indiana University Bloomington",
@@ -248,7 +248,7 @@
     "開催年月日(From)": "2017-06-19",
     "開催年月日(To)": "2017-06-23",
     "国・地域": "USA",
-    "会議種別": "poster_presentation"
+    "発表種別": "poster_presentation"
   },
   {
     "MENDAN_AFF": "電気通信大学　情報・ネットワーク専攻",
@@ -266,7 +266,7 @@
     "開催年月日(From)": "2017-07-07",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "北海道大学 電子科学研究所",
@@ -284,7 +284,7 @@
     "開催年月日(From)": "2017-08-04",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "ネットワークベースの自由記述式アンケート : 大学教育と職業選択に関する調査",
@@ -299,7 +299,7 @@
     "開催年月日(From)": "2017-09-21",
     "開催年月日(To)": "2017-09-24",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "http://www.csis.u-tokyo.ac.jp/japanese/research_activities/symposium/2017/",
@@ -315,7 +315,7 @@
     "開催年月日(From)": "2017-10-14",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "invited_oral_presentation"
+    "発表種別": "invited_oral_presentation"
   },
   {
     "WEB": "https://sites.google.com/site/arsc2017tokyo/program",
@@ -331,7 +331,7 @@
     "開催年月日(From)": "2017-11-25",
     "開催年月日(To)": "2017-11-26",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "",
@@ -347,7 +347,7 @@
     "開催年月日(From)": "2017-12-09",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "MENDAN_AFF": "工学院大学",
@@ -365,7 +365,7 @@
     "開催年月日(From)": "2018-05-12",
     "開催年月日(To)": "2018-05-13",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "http://www.naxys.be/event/takaaki-aoki-kagawa-university-japan/",
@@ -381,7 +381,7 @@
     "開催年月日(From)": "2018-06-19",
     "開催年月日(To)": "",
     "国・地域": "BEL",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "http://www.ed.kagawa-u.ac.jp/~aoki/seminar/seminar_2018_07.htm",
@@ -397,7 +397,7 @@
     "開催年月日(From)": "2018-07-06",
     "開催年月日(To)": "2018-07-08",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "http://www.ed.kagawa-u.ac.jp/~aoki/seminar/workshop_2018_07.htm",
@@ -413,7 +413,7 @@
     "開催年月日(From)": "2018-07-18",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://aimap.imi.kyushu-u.ac.jp/wp/event/2018misc1",
@@ -429,7 +429,7 @@
     "開催年月日(From)": "2018-08-24",
     "開催年月日(To)": "2018-08-25",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://w4.gakkai-web.net/jps_search/2018au/data/html/program11.html",
@@ -445,7 +445,7 @@
     "開催年月日(From)": "2018-09-09",
     "開催年月日(To)": "2018-09-12",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.math.kyoto-u.ac.jp/ja/event/seminar/3530",
@@ -461,7 +461,7 @@
     "開催年月日(From)": "2018-10-23",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.eventbrite.com/e/network-science-workshop-in-kobe-tickets-50557786701#",
@@ -477,7 +477,7 @@
     "開催年月日(From)": "2018-10-25",
     "開催年月日(To)": "2018-10-26",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.torch.ox.ac.uk/themes/pastnet-network",
@@ -493,7 +493,7 @@
     "開催年月日(From)": "2018-12-06",
     "開催年月日(To)": "2018-12-07",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.gre.ac.uk/business/research/centres/cbna",
@@ -509,7 +509,7 @@
     "開催年月日(From)": "2019-05-30",
     "開催年月日(To)": "",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.maths.ox.ac.uk/node/32133",
@@ -525,7 +525,7 @@
     "開催年月日(From)": "2019-05-21",
     "開催年月日(To)": "",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.maths.ox.ac.uk/node/33633",
@@ -541,7 +541,7 @@
     "開催年月日(From)": "2019-11-05",
     "開催年月日(To)": "",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.torch.ox.ac.uk/event/complexity-science-and-past-complex-systems",
@@ -557,7 +557,7 @@
     "開催年月日(From)": "2019-11-18",
     "開催年月日(To)": "",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "http://emps.exeter.ac.uk/news-events/events-colloquia/event/?semID=2510&dateID=5235",
@@ -573,7 +573,7 @@
     "開催年月日(From)": "2019-12-10",
     "開催年月日(To)": "",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://s-shinomoto.com/mathmodel/modeling200912.html",
@@ -589,7 +589,7 @@
     "開催年月日(From)": "2020-09-12",
     "開催年月日(To)": "2020-09-13",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://sites.google.com/view/arsc2020",
@@ -605,7 +605,7 @@
     "開催年月日(From)": "2020-11-28",
     "開催年月日(To)": "2020-11-29",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://www.maths.ox.ac.uk/node/33633",
@@ -621,7 +621,7 @@
     "開催年月日(From)": "2021-03-12",
     "開催年月日(To)": "2021-03-15",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "人流データの背後にあるポテンシャル場の決定",
@@ -636,7 +636,7 @@
     "開催年月日(From)": "2021-08-28",
     "開催年月日(To)": "2021-08-30",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "ホッジ・小平分解を用いた,人流データの背後にあるポテンシャル場の決定",
@@ -651,7 +651,7 @@
     "開催年月日(From)": "2021-09-20",
     "開催年月日(To)": "2021-09-23",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "人流データに基づく都市空間構造の可視化: OD行列のHodge-小平分解",
@@ -666,7 +666,7 @@
     "開催年月日(From)": "2021-11-19",
     "開催年月日(To)": "2021-11-20",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Urban spatial structures from human flow by Hodge-Kodaira decomposition",
@@ -681,7 +681,7 @@
     "開催年月日(From)": "2021-11-20",
     "開催年月日(To)": "2021-11-21",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "url": "http://www.jaist.ac.jp/~mizutaka/seminar2021/nss2021.html",
@@ -697,7 +697,7 @@
     "開催年月日(From)": "2021-12-11",
     "開催年月日(To)": "2021-12-12",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Finding a potential of human flow",
@@ -712,7 +712,7 @@
     "開催年月日(From)": "2022-02-14",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "url": "https://csi.ugent.be/events.html",
@@ -728,7 +728,7 @@
     "開催年月日(From)": "2022-03-31",
     "開催年月日(To)": "",
     "国・地域": "BEL",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "人の流れから都市の姿を描く",
@@ -743,7 +743,7 @@
     "開催年月日(From)": "2022-12-15",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "GPS位置情報分析における非ポアソン性を考慮したグリットサイズ推定法",
@@ -758,7 +758,7 @@
     "開催年月日(From)": "2022-11-18",
     "開催年月日(To)": "2022-11-19",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Finding a potential of human flow for revealing urban spatial structures",
@@ -773,7 +773,7 @@
     "開催年月日(From)": "2022-09-16",
     "開催年月日(To)": "2022-09-17",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解",
@@ -788,7 +788,7 @@
     "開催年月日(From)": "2022-06-28",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential field of human flow extracted by Hodge-Kodaira decomposition",
@@ -803,7 +803,7 @@
     "開催年月日(From)": "2022-07-06",
     "開催年月日(To)": "2022-07-07",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "人の流れから都市の姿を描く",
@@ -818,7 +818,7 @@
     "開催年月日(From)": "2023-05-26",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Identifying sinks and sources of human flows",
@@ -833,7 +833,7 @@
     "開催年月日(From)": "2023-07-10",
     "開催年月日(To)": "2023-07-14",
     "国・地域": "AUT",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential landscape of human flow in cities",
@@ -848,7 +848,7 @@
     "開催年月日(From)": "2023-07-10",
     "開催年月日(To)": "2023-07-14",
     "国・地域": "AUT",
-    "会議種別": "poster_presentation"
+    "発表種別": "poster_presentation"
   },
   {
     "タイトル(日本語)": "人の流れから都市の姿を描く",
@@ -863,7 +863,7 @@
     "開催年月日(From)": "2023-07-29",
     "開催年月日(To)": "2023-07-30",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "A model of city formation and scaling laws",
@@ -878,7 +878,7 @@
     "開催年月日(From)": "2023-08-07",
     "開催年月日(To)": "2023-08-11",
     "国・地域": "JPN",
-    "会議種別": "poster_presentation"
+    "発表種別": "poster_presentation"
   },
   {
     "タイトル(日本語)": "Potential landscape of human flow in cities",
@@ -893,7 +893,7 @@
     "開催年月日(From)": "2023-08-07",
     "開催年月日(To)": "2023-08-11",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential field of human flow extracted by Hodge-Kodaira decomposition",
@@ -908,7 +908,7 @@
     "開催年月日(From)": "2023-08-20",
     "開催年月日(To)": "2023-08-25",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "A Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes",
@@ -923,7 +923,7 @@
     "開催年月日(From)": "2023-09-22",
     "開催年月日(To)": "2023-09-25",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験",
@@ -938,7 +938,7 @@
     "開催年月日(From)": "2023-09-26",
     "開催年月日(To)": "2023-09-28",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential landscape of human flow in cities",
@@ -953,7 +953,7 @@
     "開催年月日(From)": "2023-11-15",
     "開催年月日(To)": "",
     "国・地域": "USA",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "GPS 位置情報分析におけるグリットサイズ推定法の開発と実証実験",
@@ -968,7 +968,7 @@
     "開催年月日(From)": "2023-11-24",
     "開催年月日(To)": "2023-11-25",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential of migration flow: Which municipalities attract residents?",
@@ -983,7 +983,7 @@
     "開催年月日(From)": "2023-12-09",
     "開催年月日(To)": "2023-12-10",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "街と道ができる条件:イタリアのシミュレーションから",
@@ -998,7 +998,7 @@
     "開催年月日(From)": "2024-02-17",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Where are livable cities by voting with migrants feet?",
@@ -1013,7 +1013,7 @@
     "開催年月日(From)": "2024-02-19",
     "開催年月日(To)": "2024-02-20",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "移住者を引き付ける魅力とは？移住者流動のポテンシャル分析",
@@ -1028,7 +1028,7 @@
     "開催年月日(From)": "2024-03-18",
     "開催年月日(To)": "2024-03-21",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "引っ越しデータから見る都市の魅力度評価",
@@ -1043,7 +1043,7 @@
     "開催年月日(From)": "2024-11-09",
     "開催年月日(To)": "2024-11-10",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "ポテンシャルによる企業間取引ネットワークにおける階層構造の検出",
@@ -1058,7 +1058,7 @@
     "開催年月日(From)": "2024-11-30",
     "開催年月日(To)": "2024-12-01",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "WEB": "https://mathematical-society-of-traffic-flow.github.io/symposium/programs/prog2024/",
@@ -1074,7 +1074,7 @@
     "開催年月日(From)": "2024-12-06",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "invited_oral_presentation"
+    "発表種別": "invited_oral_presentation"
   },
   {
     "タイトル(日本語)": "モデルありきの世界とデータありきの世界",
@@ -1089,7 +1089,7 @@
     "開催年月日(From)": "2024-12-13",
     "開催年月日(To)": "2024-12-14",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "企業間取引ネットワーク上の資金流動情報を用いたサプライチェーン構造の検出",
@@ -1104,7 +1104,7 @@
     "開催年月日(From)": "2025-02-16",
     "開催年月日(To)": "2025-02-18",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "Potential landscape of human flow in cities",
@@ -1119,7 +1119,7 @@
     "開催年月日(From)": "2025-02-21",
     "開催年月日(To)": "",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
     "タイトル(日本語)": "粘菌ネットワークを用いた半導体工場内物流の最適化",
@@ -1134,7 +1134,7 @@
     "開催年月日(From)": "2025-03-20",
     "開催年月日(To)": "2025-03-21",
     "国・地域": "JPN",
-    "会議種別": "poster_presentation"
+    "発表種別": "poster_presentation"
   },
   {
     "タイトル(日本語)": "Exploring way for sustaining the tourism industry : Text analysis of interview data from Long-Established companies",
@@ -1149,7 +1149,7 @@
     "開催年月日(From)": "2025-03-22",
     "開催年月日(To)": "2025-03-23",
     "国・地域": "JPN",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
         "タイトル(英語)": "Hierarchy of supply chain with scalar potential",
@@ -1160,17 +1160,28 @@
     "開催年月日(From)": "2025-06-03",
     "開催年月日(To)": "2025-06-03",
     "国・地域": "NLD",
-    "会議種別": "oral_presentation"
+    "発表種別": "oral_presentation"
   },
   {
         "タイトル(英語)": "Learning about the liveability of cities from young migrants using the combinatorial Hodge theory approach.",
     "講演者(英語)": "Takaaki Aoki",
     "会議名(英語)": "Oxford networks seminar",
-    "開催地(英語)": "The Mathematical Institute, the University of Oxford",
+    "開催地(英語)": "The Mathematical Institute, University of Oxford",
     "発表年月日": "2025-06-10",
     "開催年月日(From)": "2025-06-10",
     "開催年月日(To)": "2025-06-10",
     "国・地域": "GBR",
-    "会議種別": "oral_presentation"
-  }
+    "発表種別": "oral_presentation"
+  },
+  {
+  "タイトル(英語)": "A Toy Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes: From Ancient Roman Cities to Hokkaido in 2300",
+  "講演者(英語)": "Takaaki Aoki",
+  "開催地(英語)": "Mathematical Institute, University of Oxford, L3 Lecture Hall, Andrew Wiles Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG",
+  "会議名(英語)": "Oxford-Japan Symposium on Cell Behaviors in Simple to Complex Environments",
+  "発表年月日": "2025-09-22",
+  "開催年月日(From)": "2025-09-22",
+  "開催年月日(To)": "2025-09-26",
+  "国・地域": "GBR",
+  "発表種別": "poster_presentation"
+}
 ]

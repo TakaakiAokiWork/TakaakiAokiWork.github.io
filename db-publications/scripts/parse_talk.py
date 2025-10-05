@@ -29,7 +29,7 @@ def is_exists_key(key, entry):
 
 def parse(entry):
     d = dict()
-    #print(entry, file=sys.stderr)
+    print(entry, file=sys.stderr)
 
     if is_exists_key("タイトル(日本語)",entry):
         d["title"]  = entry["タイトル(日本語)"]
@@ -63,7 +63,7 @@ def parse(entry):
     else:
         d["date_to"] = d["date_from"]
 
-    d["talk_type"] = entry["会議種別"].replace("_presentation","")
+    d["talk_type"] = entry["発表種別"].replace("_presentation","")
     d["country"] = pycountry.countries.get(alpha_3=entry['国・地域']).name
     return(d)
 

@@ -176,7 +176,8 @@ in A. Panjek, J. Larsson and L. Mocarelli (eds.) <em>Integrated Peasant Economy 
 ## Talks
 #### 2025年度
 <ol>
-<li>Learning about the liveability of cities from young migrants using the combinatorial Hodge theory approach., Takaaki Aoki, Oxford networks seminar(2025/06/10-2025/06/10), 2025/06/10, The Mathematical Institute, the University of Oxford, United Kingdom, oral </li>
+<li>A Toy Model for Simulating Emergent Patterns of Cities and Roads on Real-World Landscapes: From Ancient Roman Cities to Hokkaido in 2300, Takaaki Aoki, Oxford-Japan Symposium on Cell Behaviors in Simple to Complex Environments(2025/09/22-2025/09/26), 2025/09/22, Mathematical Institute, University of Oxford, L3 Lecture Hall, Andrew Wiles Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG, United Kingdom, poster </li>
+<li>Learning about the liveability of cities from young migrants using the combinatorial Hodge theory approach., Takaaki Aoki, Oxford networks seminar(2025/06/10-2025/06/10), 2025/06/10, The Mathematical Institute, University of Oxford, United Kingdom, oral </li>
 <li>Hierarchy of supply chain with scalar potential, Taiyo Nakatani and Takaaki Aoki, NetSci  2025 Satellite on Firm-Level Supply Chain Networks (FLSCN)(2025/06/03-2025/06/03), 2025/06/03, Maastricht, the Netherlands, Netherlands, oral </li>
 </ol>
 
