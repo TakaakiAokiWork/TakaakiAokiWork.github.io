@@ -6,12 +6,15 @@ import datetime
 with open(sys.argv[1]) as f:
     db = bibtexparser.load(f)
 for e in db.entries:
-    if "month" not in e:
-        e["month"] = "jan"
-    if e["month"].isnumeric():
-        e["date"] = datetime.datetime.strptime("%s/%s/01" % (e["year"],e["month"]), "%Y/%m/%d").date()
+    if "urldate" in e:
+        e["date"] = datetime.datetime.strptime(e["urldate"], "%Y-%m-%d").date()
     else:
-        e["date"] = datetime.datetime.strptime("%s/%s/01" % (e["year"],e["month"]), "%Y/%b/%d").date()
+        if "month" not in e:
+            e["month"] = "jan"
+        if e["month"].isnumeric():
+            e["date"] = datetime.datetime.strptime("%s/%s/01" % (e["year"],e["month"]), "%Y/%m/%d").date()
+        else:
+            e["date"] = datetime.datetime.strptime("%s/%s/01" % (e["year"],e["month"]), "%Y/%b/%d").date()
 
 
 def format_name_eng(splitted_name):
