@@ -19,7 +19,6 @@ Table of contents
 {::nomarkdown}
 <div id='publication'>
 <ol>
-<li><strong>Learning the liveability of cities from migrants: Combinatiorial-Hodge-theory approach</strong>, <span id='me'>Takaaki Aoki</span>, Kohei Nagamachi &amp; Tetsuya Shimane, <a href=https://arxiv.org/abs/2405.11166>arXiv:2405.11166 [physics.soc-ph]</a>
 </ol>
 </div>
 {:/nomarkdown}
@@ -29,6 +28,7 @@ Table of contents
 {::nomarkdown}
 <div id='publication'>
 <ol>
+<li><strong>Learning about the Liveability of Cities from Young Migrants Using the Combinatorial {{Hodge}} Theory Approach</strong>, <span id='me'>Takaaki Aoki</span>, Kohei Nagamachi &amp; Tetsuya Shimane, <em>npj Urban Sustainability</em>, vol. 5(1), 84 (2025).<br><a href=https://doi.org/10.1038/s42949-025-00270-4><button>Fulltext (free)</button></a><br>DOI: <a href=https://doi.org/10.1038/s42949-025-00270-4>10.1038/s42949-025-00270-4</a>
 <li><strong>A Review of Human Mobility: {{Linking}} Data, Models, and Real-World Applications</strong>, Yunhan Du, <span id='me'>Takaaki Aoki</span> &amp; Naoya Fujiwara, <em>Journal of Computational Social Science</em>, vol. 8(4), 90 (2025).<br><a href=https://doi.org/10.1007/s42001-025-00414-7><button>Fulltext (free)</button></a><br>DOI: <a href=https://doi.org/10.1007/s42001-025-00414-7>10.1007/s42001-025-00414-7</a>
 <li><strong>Unveiling realistic mobility patterns with home–origin–destination data aggregation</strong>, Yunhan Du, <span id='me'>Takaaki Aoki</span> &amp; Naoya Fujiwara, <em>The European Physical Journal Plus</em>, vol. 139(5), 403 (2024).<br><a href=https://doi.org/10.1140/epjp/s13360-024-05142-x><button>Fulltext (free)</button></a><br>DOI: <a href=https://doi.org/10.1140/epjp/s13360-024-05142-x>10.1140/epjp/s13360-024-05142-x</a>
 <li><strong>Identifying sinks and sources of human flows: A new approach to characterizing urban structures</strong>, <span id='me'>Takaaki Aoki</span>, Shota Fujishima &amp; Naoya Fujiwara, <em>Environment and Planning B: Urban Analytics and City Science</em>, vol. 51(2), 419-437 (2024).<br><a href=https://arxiv.org/pdf/2211.14496><button>Fulltext (free)</button></a><br>DOI: <a href=https://doi.org/10.1177/23998083231180608>10.1177/23998083231180608</a>
